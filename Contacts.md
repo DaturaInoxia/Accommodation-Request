@@ -6,6 +6,7 @@
 - **Address:** 1332 County Rd 3, Carrying Place, ON, K0K 1L0
 - **Phone:** 416-428-9030
 - **Email:** peter@drfarvolden.co
+- **Booking / payment portal:** https://drfarvolden.janeapp.com/account (Jane App — book appointments and pay)
 - **Role:** Aligned psychologist — provided the Assessment Summary dated June 10, 2026 (`Ken W Letter June 10 2026 PF.docx`)
 
 ## Achkar Law — Legal Counsel
