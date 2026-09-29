@@ -1,0 +1,22 @@
+# --- Office temp / lock files ---
+~$*
+*.tmp
+*.laccdb
+
+# --- Editor / tooling ---
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.suo
+*.user
+*.swp
+
+# --- OS junk ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Local exports / scratch ---
+/_scratch/
+/export/

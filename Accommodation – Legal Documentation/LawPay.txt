@@ -1,0 +1,22 @@
+Payment Receipt	$508.50 CAD
+Achkar Law
+4789 Yonge St.
+Ste. 908
+Toronto , Ontario M2N 0G3
+(647) 946-6440
+ 	Account Holder
+KENNETH WOOD
+315 Centre Street
+Beeton, L0G 1A0
+Payment Summary	 
+Account:	Operating
+Reference:	KEN WOOD - ken.ac.wood.moh@gmail.com
+ 	 
+Amount Paid:	$508.50 CAD
+Payment Method:	VISA
+Card Number:	************7015
+Entry Mode:	Manual
+Auth Code:	051972
+Payment Date:	December 16, 2025 01:05 pm
+Transaction Id:	152148227
+Payment Id:	waT2fZMmRF-OF1DdKE9ZEg
