@@ -16,3 +16,8 @@
 - **Phone:** (647) 946-6440
 - **Role:** Employment/accommodation lawyer — initial consult Dec 16, 2025 (`Notes from Initial Consult.txt`)
 - **Note:** Individual lawyer's name not recorded yet.
+
+## CBT Associates — Therapy Portal
+
+- **Booking / payment portal:** https://cbtassociates.janeapp.com/account#upcoming (Jane App)
+- **Note:** Provider name, address, phone and email not recorded yet.
