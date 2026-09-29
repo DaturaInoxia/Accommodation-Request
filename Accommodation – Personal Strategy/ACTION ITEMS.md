@@ -25,3 +25,4 @@ Work down this list in priority order — start at #1.
 
 - [ ] **9. Keep the psychologist journal and coping-strategy notes current** — functional-limitations evidence base.
 - [ ] **10. File the OPS return-to-office standard** (`Cabinet OPS Return to 5 Days Per Week In-Office Standard.pdf`) and the HR mandate notice with the evidence, as context for the barrier.
+- [ ] **11. Claim the psychologist appointments** — submit the psychologist appointment costs through your benefits/health spending account. Check the claim deadline (some plans require claims within a set window or by year-end).
