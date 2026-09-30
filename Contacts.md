@@ -38,5 +38,5 @@
 - **Practice:** Addiction Services Central Ontario (ASCO)
 - **Credentials:** RSW (Registered Social Worker) — Addiction Counsellor
 - **Phone:** 289-841-6146
-- **Email:** Not recorded yet
+- **Email:** pmckenzie@helpwithaddictions.ca
 - **Role:** Counsellor since October 2025. Source of the one-paragraph counsellor summary confirming engagement and functional limitations (`../Accommodation - ASCO Documentation/PaigeFollowUp_NOTSENT.txt`).
