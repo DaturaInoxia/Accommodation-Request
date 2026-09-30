@@ -15,7 +15,7 @@ Work down this list in priority order — start at #1.
 ## Sign-off (critical path)
 
 - [ ] **5. Engage Dr. K. Sotoudeh (new family doctor)** — now the PRIMARY sign-off route. ✅ Verbal agreement: he will write the doctor's note using Peter's report as evidence.
-- [ ] **5a. Get Peter Farvolden to send his report DIRECTLY to Dr. Sotoudeh's office** — Dr. Sotoudeh wants the report to come from the psychologist, not from you. Contact Peter (`peter@drfarvolden.co` / 416-428-9030) and ask him to send the Assessment Summary directly to Bradford Health Care Centre (fax 905-775-2026 / `bradfordmedical@yahoo.com`), with your consent. Then follow up with Dr. Sotoudeh's office to confirm receipt.
+- [ ] **5a. Meet Peter (next week)** — agenda: (1) ask him to send his report DIRECTLY to Dr. Sotoudeh (fax 905-775-2026 / `bradfordmedical@yahoo.com`) with your consent; (2) discuss the recommendation gap — can he frame it flexibly ("work from home as functional limitations require, incl. full-time remote during elevated symptoms") vs. a fixed 2–3 days in office; (3) ask for OHRC-chain wording (disability → functional limitations → accommodation) so Dr. Sotoudeh's note matches; (4) clarify temporary (≥1 yr while treating anxiety/driving phobia) vs. permanent; (5) optionally request a diagnosis-free functional summary for the employer; (6) ask him to document the treatment plan.
 - [x] ~~Rocket Doctor~~ — **CANCELLED: that path did not work.**
 - [ ] **6. Dr. Soile complaint (optional)** — `07_Complaint_Draft.docx` (CPSO route). Decide whether to file; keep as documentation/leverage.
 
