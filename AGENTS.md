@@ -35,7 +35,7 @@ relapse risk), not diagnosis. Two documentation layers:
 | Path | Contents |
 |------|----------|
 | `00 – Document Index & Strategy Map (Ken Wood).docx` | Master index / roadmap |
-| `Accommodation - ASCO Documentation/` | Correspondence with Paige (Dr. Soile's clinic) and a draft for the doctor's note |
+| `Accommodation - ASCO Documentation/` | Correspondence with Paige McKenzie, addiction counsellor at ASCO (Addiction Services Central Ontario), and a draft for the doctor's note |
 | `Accommodation – HR Evidence/` | Evidence packet, HR accommodation request, OPS return-to-office standard |
 | `Accommodation – Legal Documentation/` | Achkar Law payment receipt + initial consult notes |
 | `Accommodation – Medical Documentation/` | Clinician letters, notes, consent form, OHRC mapping, Rocket Doctor + Telus Health material |
