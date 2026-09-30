@@ -26,10 +26,16 @@ recommendation on it.
 [Name] has a diagnosed medical condition that constitutes a disability.
 
 Functional limitations:
-Commuting to and from the workplace is a significant trigger that worsens
-[name]'s condition and increases the risk of serious relapse and
-destabilization of their health. Symptoms fluctuate, so the functional
-impact is greater during periods of elevated symptoms.
+- Commuting to and from the workplace is a trigger that worsens [name]'s
+  condition and increases the risk of relapse of that condition.
+- Driving causes significant anticipatory anxiety and a heightened stress
+  response that persists after arrival.
+- Sleep is disrupted on nights before in-office attendance, reducing the
+  ability to maintain stability.
+- Commuting-related fatigue reduces concentration, consistency, and the
+  ability to maintain the routines that support [name]'s health.
+- These limitations fluctuate; the impact is greater during periods of
+  elevated symptoms.
 
 Recommended accommodation:
 [Name] requires a workplace accommodation allowing them to work from home as
