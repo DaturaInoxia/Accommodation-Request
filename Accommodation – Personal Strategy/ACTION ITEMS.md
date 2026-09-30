@@ -7,7 +7,8 @@ Work down this list in priority order — start at #1.
 ## Immediate (today / this week)
 
 - [ ] **1. Notify the OPSEU rep** — RTO enforcement has started and your AWA was denied. Ask about interim protection while your accommodation request is pending, and get the formal process started.
-- [ ] **2. Submit the HR accommodation request now** — `07 – HR Accommodation Request (Ken Wood).docx` with the psychologist report (`Ken W Letter June 10 2026 PF.docx`) attached. Do **not** wait for the physician form; the request + psychologist evidence triggers the employer's duty to accommodate and protects your position while the sign-off is finalized.
+- [ ] **2. Submit the HR accommodation request now** — `07 – HR Accommodation Request (Ken Wood).docx` (your functional-limitations framing — no diagnosis). ⚠️ See 2a before attaching Peter's report.
+- [ ] **2a. Reconcile the accommodation target** — Peter's report (`Ken W Letter June 10 2026 PF.docx`) names DSM diagnoses (Alcohol Use Disorder, Social Anxiety Disorder, Specific Phobia – driving) and recommends **no more than 2–3 days/week in office**, NOT full remote. Decide with the lawyer/union what to actually request, and whether to (a) attach the report as-is (discloses diagnosis), (b) get a functional-limitations-only summary, or (c) have Dr. Sotoudeh document the target in the note.
 - [ ] **3. Send the Paige follow-up email** — `../Accommodation - ASCO Documentation/PaigeFollowUp_NOTSENT.txt`. The counsellor summary is further evidence to attach.
 - [ ] **4. Re-engage Achkar Law** — tell the lawyer RTO is being enforced and all AWAs were denied; ask about rights and interim steps while the request is pending.
 
