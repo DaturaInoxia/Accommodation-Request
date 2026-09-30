@@ -1,40 +1,24 @@
 DRAFT — email to manager (not sent)
-Notes before sending:
+Notes:
 - Fill in [Manager name].
-- Frame the request as FLEXIBLE / needs-based (work from home as your functional
-  limitations require), not a fixed number of days. Confirm with your OPSEU rep /
-  lawyer — and make sure Dr. Sotoudeh's note uses the same flexible wording
-  (Peter's report currently says ~2–3 days/week in office, so a fully open-ended
-  "as required" ask must be supported by the physician's note).
-- Do NOT name the diagnosis. Medical documentation goes to HR, not the manager.
+- Send as-is. Short is deliberate — the Code does not require formal language.
+- Do NOT name the diagnosis. If they ask for medical info, it goes to HR, not the manager.
 
 ---
 
-Subject: Request for workplace accommodation
+Subject: Request for Workplace Accommodation
 
 Hi [Manager name],
 
-I'm writing to formally request a workplace accommodation under the Ontario
-Human Rights Code.
+I'm writing to request a workplace accommodation under the Ontario Human
+Rights Code.
 
-I have a disability that is triggered and worsened by the stress and
-fatigue of daily commuting. Returning to five days in-office would expose
-me to that trigger on an ongoing basis; working from home removes it and is
-what allows me to stay well and perform all of my duties at full capacity.
+I have a disability that is triggered by commuting, and I'm requesting to
+continue working from home rather than return to in-office attendance five
+days a week.
 
-I'm requesting an accommodation that lets me work from home as my
-functional limitations require, rather than returning to in-office
-attendance five days per week. In practice, this means that on days when
-commuting is manageable I can attend the office, and on days when commuting
-would destabilize my health I would work remotely.
-
-I can provide supporting documentation from my health care providers
-describing my functional limitations and their relationship to commuting.
-I understand medical details do not need to come to you personally and I'm
-happy to provide them through HR or the appropriate confidential channel.
-
-Could you please start the accommodation process and let me know the next
-steps, or point me to the right HR contact?
+Please let me know the next steps in the accommodation process, or who I
+should provide supporting medical information to.
 
 I've also shared this with my OPSEU representative.
 
