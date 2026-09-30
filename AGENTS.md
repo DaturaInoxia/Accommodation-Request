@@ -71,6 +71,19 @@ When helping with any document or prompt in this project:
    Do not suggest a psychologist alone suffices for OPS/OPSEU formal forms.
 5. Do not speculate; flag missing facts and challenge weak framing.
 
+### Key legal references (verified in workspace docs)
+
+- **OHRC** — accommodation turns on *functional limitations*, not diagnosis.
+  The employer may generally only ask: does a disability exist; what are the
+  limitations; can essential duties be performed with/without accommodation;
+  what accommodation is needed. Employers must pay for required medical
+  documentation (e.g. notes/letters setting out accommodation needs).
+- **OPSEU** — Unified collective agreement Appendix 67 defines a "legally
+  qualified medical practitioner" as a physician, dentist, or nurse
+  practitioner. OPSEU's 2022 bargaining update (arbitrated definition)
+  confirms this **excludes a psychologist**. Hence: psychologist = evidence
+  layer; NP/physician = formal sign-off layer.
+
 Canonical prompt patterns live in `Prompts/MaterPrompt.md` (self),
 `Prompts/MaterPrompt_Practiioner.md` (OPSEU-specific), and
 `Prompts/FindClinicial.md` (clinician search).
