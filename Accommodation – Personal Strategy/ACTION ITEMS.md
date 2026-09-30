@@ -1,29 +1,34 @@
 # Action Items
 
-Last updated: 2026-09-29
+Last updated: 2026-09-29 — **SITUATION CHANGED: the 5-day RTO is now being enforced and all AWAs were denied (today). Rocket Doctor is out.**
 
 Work down this list in priority order — start at #1.
 
-## Do first (this week)
+## Immediate (today / this week)
 
-- [ ] **1. Verify the GitHub repo is private** — the initial commit (medical records, consent form, payment receipt with card data) is already on `DaturaInoxia/Accommodation-Request`. If it is public, fix this before anything else.
-- [ ] **2. Send the Paige follow-up email** — drafted at `../Accommodation - ASCO Documentation/PaigeFollowUp_NOTSENT.txt`. It unblocks the counselling summary the doctor needs.
-- [ ] **3. Confirm the next lawyer call (Achkar Law)** — `Notes from Initial Consult.txt` shows "Thursday 11:00 AM" and "Provide Doctor note." Confirm the appointment and what the lawyer needs, and by when.
+- [ ] **1. Notify the OPSEU rep** — RTO enforcement has started and your AWA was denied. Ask about interim protection while your accommodation request is pending, and get the formal process started.
+- [ ] **2. Submit the HR accommodation request now** — `07 – HR Accommodation Request (Ken Wood).docx` with the psychologist report (`Ken W Letter June 10 2026 PF.docx`) attached. Do **not** wait for the physician form; the request + psychologist evidence triggers the employer's duty to accommodate and protects your position while the sign-off is finalized.
+- [ ] **3. Send the Paige follow-up email** — `../Accommodation - ASCO Documentation/PaigeFollowUp_NOTSENT.txt`. The counsellor summary is further evidence to attach.
+- [ ] **4. Re-engage Achkar Law** — tell the lawyer RTO is being enforced and all AWAs were denied; ask about rights and interim steps while the request is pending.
 
-## Next (1–2 weeks) — secure the formal sign-off
+## Sign-off (critical path)
 
-- [ ] **4. Book the Rocket Doctor appointment** and use the prep packet (`../Accommodation – Medical Documentation/RocketDoctor/01 – Clinician Briefing Sheet … 05 – Clinician Evidence Packet`, plus `Prep/PrepSheet.docx` and `Prep/Prepare_Notes.docx`) to get an NP/physician to complete the employer accommodation forms.
-- [ ] **5. Engage Dr. K. Sotoudeh (new family doctor)** — Bradford Health Care Centre, 905-755-2025 (see `../Contacts.md`). Ask whether they will complete the OPS/OPSEU accommodation forms and provide the physician sign-off; bring the clinician brief (`01 – Clinician Briefing Sheet (Ken Wood).docx`).
-- [ ] **6. Resolve the Dr. Soile path** — she was unwilling (`05_Soile_Unwilling.docx`). Either proceed with the new clinician (`06_NewClinician.docx`) or decide whether to file the complaint (`07_Complaint_Draft.docx`).
+- [ ] **5. Engage Dr. K. Sotoudeh (new family doctor)** — now the PRIMARY sign-off route. Bring the clinician brief + Peter's report and ask them to complete the OPS/OPSEU accommodation forms.
+- [x] ~~Rocket Doctor~~ — **CANCELLED: that path did not work.**
+- [ ] **6. Dr. Soile complaint (optional)** — `07_Complaint_Draft.docx` (CPSO route). Decide whether to file; keep as documentation/leverage.
 
-## Then — build and submit the HR package
+## Then — finalize the full package
 
-- [ ] **7. Finalize the HR request** — `07 – HR Accommodation Request (Ken Wood).docx`, incorporating the WFH/AWA timeline from `WorkFromHome(AWA) Timeline Summary.docx`.
-- [ ] **8. Assemble the evidence packet** — `05 – Comprehensive Accommodation Evidence Packet (Ken Wood).docx`, pulling together the psychologist letter (`Ken W Letter June 10 2026 PF.docx`), the doctor's note (`Dec1_Recieved_MedicalNote1.pdf`), and the `OHRC_functionalLimitations_Mapping.docx`.
-- [ ] **9. Review the package with the OPSEU rep** before submitting to HR.
+- [ ] **7. Finalize the HR request** — `07 – HR Accommodation Request (Ken Wood).docx`, incorporating the WFH/AWA timeline from `WorkFromHome(AWA) Timeline Summary.docx` (note the AWA denial date).
+- [ ] **8. Assemble the evidence packet** — `05 – Comprehensive Accommodation Evidence Packet (Ken Wood).docx`, pulling together the psychologist letter (`Ken W Letter June 10 2026 PF.docx`), the OHRC mapping (`OHRC_functionalLimitations_Mapping.docx`), and the clinician sign-off once obtained.
+- [ ] **9. Review the complete package with the OPSEU rep** before submitting to HR.
 
 ## Ongoing
 
 - [ ] **10. Keep the psychologist journal and coping-strategy notes current** — functional-limitations evidence base.
-- [ ] **11. File the OPS return-to-office standard** (`Cabinet OPS Return to 5 Days Per Week In-Office Standard.pdf`) and the HR mandate notice with the evidence, as context for the barrier.
-- [ ] **12. Claim the psychologist appointments** — submit the psychologist appointment costs through your benefits/health spending account. Check the claim deadline (some plans require claims within a set window or by year-end).
+- [ ] **11. Record the RTO enforcement + AWA denial** — add the date and details of the denial to the HR evidence folder as context for the barrier.
+- [ ] **12. Claim the psychologist appointments** — submit through your benefits/health spending account; check the claim deadline.
+
+## Housekeeping
+
+- [ ] **13. Verify the GitHub repo is private** — sensitive data is on `DaturaInoxia/Accommodation-Request`.
