@@ -1,0 +1,47 @@
+Physician's Note Template — Workplace Accommodation (OHRC)
+For Dr. K. Sotoudeh — Bradford Health Care Centre
+
+What this note must do (so the doctor doesn't need to know OHRC):
+  1. Confirm a disability exists.
+  2. State the functional limitations (commuting = trigger / relapse risk).
+  3. State the accommodation needed (remote work / reduced in-office, as required).
+  4. State duration (permanent or reviewable).
+Avoid: treatment details, medication, history — HR only needs functional information.
+
+----------------------------------------------------------------
+[CLINIC LETTERHEAD]
+
+Date: ____________________
+
+To Whom It May Concern:
+
+Re: [Patient name] — DOB: ______________
+
+I am the treating physician for [name]. I have assessed them and reviewed the
+psychological assessment report of Peter Farvolden, C.Psych., dated
+June 10, 2026, which is consistent with my clinical findings.
+
+[Name] has a diagnosed medical condition that constitutes a disability.
+
+Functional limitations:
+Commuting to and from the workplace is a significant trigger that worsens
+[name]'s condition and increases the risk of serious relapse and
+destabilization of their health. Symptoms fluctuate, so the functional
+impact is greater during periods of elevated symptoms.
+
+Recommended accommodation:
+[Name] requires a workplace accommodation allowing them to work from home as
+their functional limitations require, including full-time remote work during
+periods when commuting would worsen their condition.
+
+[Alternative wording, if needed:]
+[Name] should be restricted to working in the office no more than ___ days
+per week.
+
+Duration:  [ ] Permanent     [ ] For ____ months, then reassessed
+
+Please contact my office if further information is required.
+
+Signed: ______________________________   Date: ______________
+[Physician name, credentials, CPSO #]
+----------------------------------------------------------------
