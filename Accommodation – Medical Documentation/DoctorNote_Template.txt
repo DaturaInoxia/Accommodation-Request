@@ -17,9 +17,11 @@ To Whom It May Concern:
 
 Re: [Patient name] — DOB: ______________
 
-I am the treating physician for [name]. I have assessed them and reviewed the
-psychological assessment report of Peter Farvolden, C.Psych., dated
-June 10, 2026, which is consistent with my clinical findings.
+I am the treating physician for [name].
+
+[OPTIONAL — only if the doctor wants to signal he relied on a specialist:]
+I have reviewed the specialist psychological assessment and base my
+recommendation on it.
 
 [Name] has a diagnosed medical condition that constitutes a disability.
 
