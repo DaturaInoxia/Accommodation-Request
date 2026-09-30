@@ -13,7 +13,8 @@ Work down this list in priority order — start at #1.
 
 ## Sign-off (critical path)
 
-- [ ] **5. Engage Dr. K. Sotoudeh (new family doctor)** — now the PRIMARY sign-off route. Bring the clinician brief + Peter's report and ask them to complete the OPS/OPSEU accommodation forms.
+- [ ] **5. Engage Dr. K. Sotoudeh (new family doctor)** — now the PRIMARY sign-off route. ✅ Verbal agreement: he will write the doctor's note using Peter's report as evidence.
+- [ ] **5a. Get Peter Farvolden to send his report DIRECTLY to Dr. Sotoudeh's office** — Dr. Sotoudeh wants the report to come from the psychologist, not from you. Contact Peter (`peter@drfarvolden.co` / 416-428-9030) and ask him to send the Assessment Summary directly to Bradford Health Care Centre (fax 905-775-2026 / `bradfordmedical@yahoo.com`), with your consent. Then follow up with Dr. Sotoudeh's office to confirm receipt.
 - [x] ~~Rocket Doctor~~ — **CANCELLED: that path did not work.**
 - [ ] **6. Dr. Soile complaint (optional)** — `07_Complaint_Draft.docx` (CPSO route). Decide whether to file; keep as documentation/leverage.
 
