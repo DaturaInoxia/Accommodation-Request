@@ -5,6 +5,9 @@
 
 # --- Editor / tooling ---
 .vs/
+.venv/
+__pycache__/
+*.pyc
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json

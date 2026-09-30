@@ -1,0 +1,1933 @@
+ 
+ 
+Policy and guidelines 
+on disability and the 
+duty to accommodate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISBN: 0-7794-0687-7 
+Revised version approved by the Commission: November 23, 2000  
+(Please note: minor revisions were made in December 2009 to  
+address legislative amendments resulting from the Human Rights  
+Code Amendment Act, 2006, which came into effect on June 30, 2008.) 
+Also available on the Internet: www.ohrc.on.ca 
+A
+vailable in other accessible formats on request 
+ 
+Disponible en français 
+
+Policy and guidelines on disability and the duty to accommodate 
+ 
+Ontario Human Rights Commission        - 2- 
+Contents 
+1. Introduction ...............................................................................................................................4 
+2. What is disability? .....................................................................................................................6 
+2.1 The definition in the Human Rights Code ...........................................................................6 
+2.2 A broader approach to understanding disability: a social perspective ................................7 
+2.3 Non-evident disabilities .......................................................................................................7 
+2.4 Mental disability ..................................................................................................................8 
+3. Prima facie discrimination because of disability........................................................................8  
+3.1 Discrimination and insurance..............................................................................................9  
+4. The duty to accommodate ......................................................................................................10 
+4.1 General principles .............................................................................................................10 
+4.1.1 Respect for dignity .....................................................................................................1 0 
+4.1.2 Individualized accommodation ...................................................................................10 
+4.1.3 Integration and full participation .................................................................................11 
+4.2 Legal principles .................................................................................................................12 
+4.3 Most appropriate accommodation.....................................................................................14 
+4.3.1 Essential duties and the current job ...........................................................................15 
+4.3.2 Alternative work..........................................................................................................16 
+4.3.3 Return to work........................................................................................................... .18 
+4.4 Duties and responsibilities in the accommodation process...............................................18 
+4.4.1 Confidentiality.............................................................................................................21 
+5. Undue hardship.......................................................................................................................21 
+5.1 Excluded factors ...............................................................................................................22 
+5.1.1 Business inconvenience.............................................................................................22 
+5.1.2 Employee morale .......................................................................................................22 
+5.1.3 Third-party preference................................................................................................23 
+5.1.4 Collective agreements or contracts............................................................................23 
+5.2 Onus of proof and objective evidence...............................................................................24 
+5.3 Elements of the undue hardship defence..........................................................................24 
+5.3.1 Cost..................................................................................................................... .......24 
+5.3.2 Outside sources of funding ........................................................................................26 
+5.3.3 Health and safety .......................................................................................................27 
+5.4 Minimizing undue hardship ...............................................................................................30 
+5.4.1 Cost recovery............................................................................................................ .30 
+5.4.2 Distributing costs....................................................................................................... .31 
+5.4.3 Reducing financial burden..........................................................................................31 
+5.4.4 Tax deductions........................................................................................................... 31 
+5.4.5 Improvements to productivity, efficiency or effectiveness ..........................................31 
+5.4.6 Second Injury and Enhancement Fund......................................................................31 
+5.4.7 Creative design solutions...........................................................................................32 
+5.4.8 A less expensive alternative.......................................................................................32 
+5.4.9 Phasing in accommodation ........................................................................................32 
+5.4.10 Establishing a reserve fund......................................................................................33 
+5.4.11 Assessing the impact of remaining costs .................................................................33 
+5.4.12 Expert assessment...................................................................................................33 
+6. Accommodation planning and implementation .......................................................................34 
+6.1 Organizational policy...................................................................................................... ...34 
+6.2 Accessibility review ...........................................................................................................35 
+7. For more information...............................................................................................................36 
+
+Policy and guidelines on disability and the duty to accommodate 
+Purpose of OHRC Policies 
+ 
+Section 30 of the Ontario Human Rights Code (Code) authorizes the Ontario Human 
+Rights Commission (OHRC) to prepare, approve and publish human rights policies to 
+provide guidance on interpreting provisions of the Code.* The OHRC’s policies and 
+guidelines set standards for how individuals, employers, service providers and policy-
+makers should act to ensure compliance with the Code. They are important because 
+they represent the OHRC’s interpretation of the Code at the time of publication.** Also, 
+they advance a progressive understanding of the rights set out in the Code.  
+ 
+Section 45.5 of the Code states that the Human Rights Tribunal of Ontario (the Tribunal) 
+may consider policies approved by the OHRC in a human rights proceeding before the 
+Tribunal. Where a party or an intervenor in a proceeding requests it, the Tribunal shall 
+consider an OHRC policy. Where an OHRC policy is relevant to the subject-matter of a 
+human rights application, parties and intervenors are encouraged to bring the policy to 
+the Tribunal’s attention for consideration.  
+ 
+Section 45.6 of the Code states that if a final decision or order of the Tribunal is not 
+consistent with an OHRC policy, in a case where the OHRC was either a party or an 
+intervenor, the OHRC may apply to the Tribunal to have the Tribunal state a case to the 
+Divisional Court to address this inconsistency. 
+ 
+OHRC policies are subject to decisions of the Superior Courts interpreting the Code. 
+OHRC policies have been given great deference by the courts and Tribunal,*** applied  
+to the facts of the case before the court or Tribunal, and quoted in the decisions of these 
+bodies.**** 
+                                            
+* The OHRC’s power under section 30 of the Code to develop policies is part of its broader responsibility 
+under section 29 to promote, protect and advance respect for human rights in Ontario, to protect the 
+public interest, and to eliminate discriminatory practices. 
+** Note that case law developments, legislative amendments, and/or changes in the OHRC’s own policy 
+positions that took place after a document’s publication date will not be reflected in that document. For 
+more information, please contact the Ontario Human Rights Commission. 
+*** In Quesnel v. London Educational Health Centre (1995), 28 C.H.R.R. D/474 at para. 53 (Ont. Bd. Inq.), 
+the tribunal applied the United States Supreme Court’s decision in Griggs v. Duke Power Co., 401 U.S. 
+424 (4th Cir. 1971) to conclude that OHRC policy statements should be given “great deference” if they are 
+consistent with Code values and are formed in a way that is consistent with the legislative history of the 
+Code itself. This latter requirement was interpreted to mean that they were formed through a process of 
+public consultation.  
+**** Recently, the Ontario Superior Court of Justice quoted at length excerpts from the OHRC’s published 
+policy work in the area of mandatory retirement and stated that the OHRC’s efforts led to a “sea change” 
+in the attitude towardss mandatory retirement in Ontario. The OHRC’s policy work on mandatory 
+retirement heightened public awareness of this issue and was at least partially responsible for the Ontario 
+government’s decision to pass legislation amending the Code to prohibit age discrimination in employment 
+after age 65, subject to limited exceptions. This amendment, which became effective December 2006, 
+made mandatory retirement policies illegal for most employers in Ontario: Assn. of Justices of the  
+Peace of Ontario v. Ontario (Attorney General) (2008), 92 O.R. (3d) 16 at para. 45. See also Eagleson 
+Co-Operative Homes, Inc. v. Théberge, [2006] O.J. No. 4584 (Sup.Ct. (Div.Ct.)) in which the Court 
+applied the OHRC’s Policy and Guidelines on Disability and the Duty to Accommodate, available at: 
+www.ohrc.on.ca/en/resources/Policies/PolicyDisAccom2  
+ 
+Ontario Human Rights Commission        - 3- 
+
+Policy and guidelines on disability and the duty to accommodate 
+1. Introduction 
+Under the Code,1 everyone has the right to be free from discrimination because of 
+disability or perceived disability in the social areas of employment, services, goods, 
+facilities, housing, contracts and membership in trade and vocational associations.  
+This right means that persons with disabilities2 have the right to equal treatment, which 
+includes the right to accessible workplaces, public transit, health services, restaurants, 
+shops and housing.  
+ 
+On average, 30 – 50% of human rights claims cite the ground of disability. Most are  
+in the area of employment, with services constituting the second largest area. For  
+this reason, this Policy focuses on the workplace, with specific guidance to support 
+employers, unions and employees in the fulfilment of their duties and rights under  
+the Code.3  
+ 
+In 1989, the OHRC published its Guidelines on Assessing Accommodation 
+Requirements for Persons with Disabilities. These Guidelines were introduced after 
+extensive consultations with stakeholders, and created for the first time a standard for 
+the interpretation of “undue hardship.” The Guidelines were cited before tribunals and 
+the courts, and were an important interpretative tool. Since that time, there have been 
+several important legal decisions, notably from the Supreme Court of Canada, with 
+respect to the ground of disability and the duty to accommodate. These decisions have 
+assisted the OHRC in its evolving understanding of equality for persons with disabilities. 
+Significantly, the Supreme Court has noted the need to adapt society so that its structures 
+and attitudes include persons with disabilities. This requires a shift in our approach to the 
+entire area, one that affirms the centrality of human dignity in achieving equality.  
+ 
+In 1999, the OHRC invited stakeholders to provide input on the revisions to the 
+Guidelines. Over 150 stakeholders were approached. They represented a broad 
+spectrum of interests, including consumers and organizations from the disability 
+community, employer associat ions, educational institut ions, law firms, labour, 
+provincial and municipal gov ernment agencies, bu siness and trade associations  
+and service providers.  
+ 
+Several themes emerged from these consultations, and have informed these revisions: 
+ There is a need to reaffirm the standard of undue hardship that was created in 
+1989. 
+ While undue hardship is a high standard, it is necessary to ensure equality.  
+It is, in this sense, ”reasonable” and accommodation to the point of undue 
+hardship is “reasonable accommodation,.  
+ Individual accommodation has grown in significance as a central principle  
+of human rights law. 
+ More guidance is needed on the definition of  disability, as well as more practical 
+direction on the steps required in the accommodation process. 
+ The principle of design by inclusion and barrier removal has to be underscored.  
+ More information on the needs of persons with mental disabilities is a priority. 
+ 
+Ontario Human Rights Commission        - 4- 
+
+Policy and guidelines on disability and the duty to accommodate 
+ Unions and employee associations hav e a critical role to play in the 
+accommodation process. 
+ There is a need to clarify the impact of accommodation on performance 
+standards and on access to jobs other than the “pre-disability” job. 
+ The principle of dignity with risk (i.e., the ability of persons with disabilities  
+to assume risk to themselves) has to be balanced with health and safety 
+considerations. 
+ 
+As a result, there are several new features in this Policy and Guidelines, which replaces 
+the 1989 Guidelines. The reader will find references to case law and international human 
+rights obligations, as well as a resource section.  
+ 
+The right to be accommodated and the corresponding duty of the employer and union 
+are now well established in statute and case law. Accommodation is a fundamental  
+and integral part of the right to equal treatment. The duty to accommodate means that 
+the terms and conditions of the workplace, or the functions of a job, may have to be 
+changed. The Code recognizes that an employer may have operating rules, policies  
+and procedures that may be necessary for business reasons, or that there may be 
+certain legal requirements such as health and safety legislation. There may also be 
+collective agreements that set out the terms and conditions governing the workplace.  
+ 
+Accommodation with dignity is part of the broader principle that our society should be 
+structured and designed for inclusiveness. This principle, which is sometimes referred  
+to as integration, emphasizes barrier-free design and equal participation of persons  
+with varying levels of ability. Integration is also much more cost-effective than building 
+parallel service systems, although it is inevitable that there will be times when parallel 
+services are the only option. Inclusive design and integration are also preferable to 
+“modification of rules” or “barrier removal,” terms that, although popular, assume that 
+the status quo (usually designed by able-bodied persons) simply needs an adjustment 
+to render it acceptable. In fact, inclusive design may involve an entirely different 
+approach. It is based on positive steps needed to ensure equal participation for those 
+who have experienced historical disadvantage and exclusion from society’s benefits.4 
+The right to equality can be breached by a failure to address needs related to 
+disadvantage.  
+ 
+As the Supreme Court of Canada has observed: 
+ 
+[T]he principle that discrimination can accrue from a failure to take positive steps 
+to ensure that disadvantaged groups benefit equally from services offered to the 
+general public is widely accepted in the human rights field.5  
+ 
+This positive approach is more effective because it is accessible and inclusive from the 
+start. Employers and others who set standards or requirements “owe an obligation to be 
+aware of both the differences between individuals, and differences that characterize 
+groups of individuals. They must build conceptions of equality into workplace [or other] 
+standards.”6 A proactive approach to disability accommodation is therefore necessary. 
+ 
+Ontario Human Rights Commission        - 5- 
+
+Policy and guidelines on disability and the duty to accommodate 
+Those responsible for accommodation7 should be aware of the standards for 
+accommodation. The following guiding principles should be kept in mind:  
+ The needs of persons with disabilit ies must be accommodated in the  
+manner that most respects their dignity, to the point of undue hardship.  
+ There is no set formula for accommodation – each person has unique  
+needs and it is important to consult with the person involved.  
+ Taking responsibility and showing willingness to explore solutions is a  
+key part of treating people respectfully and with dignity.  
+ Voluntary compliance may avoid complaints under the Code , as well  
+as save the time and expense needed to defend against them.  
+ 
+ 
+2. What is disability? 
+2.1 The definition in the Human Rights Code 
+Section 10 (1) of the Code defines “disability” as follows:  
+“because of disability” means for the reason that the person has or has had,  
+or is believed to have or have had, 
+(a) any degree of physical disability, infirmity, malformation or disfigurement  
+that is caused by bodily injury, birth defect or illness and, without limiting the 
+generality of the foregoing, includes diabetes mellitus, epilepsy, a brain injury, 
+any degree of paralysis, amputation, lack of physical co-ordination, blindness 
+or visual impediment, deafness or hearing impediment, muteness or speech 
+impediment, or physical reliance on a guide dog or other animal or on a 
+wheelchair or other remedial appliance or device, 
+(b)  a condition of mental impairment or a developmental disability, 
+(c)  a learning disability, or a dysfunction in one or more of the processes 
+involved in understanding or using symbols or spoken language, 
+(d)  a mental disorder, or 
+(e)  an injury or disability for which benefits were claimed or received under  
+the insurance plan established under the Workplace Safety and Insurance 
+Act, 1997  
+  
+“Disability” should be interpreted in broad terms. It incl udes both present and past 
+conditions, as well as a su bjective component based on perception of disability. 
+Although sections 10(a) to (e) set out various types of conditio ns, it is clear that  
+they are merely illustrative and not exhaustive. Protection for persons with disabilities 
+under this subsection explicit ly includes mental illness, 8 developmental disabilities  
+and learning disabilities. Even minor illnesses or infirmities can be “disabilities,” if a 
+person can show that she was treated unfairly because of the perception of a disability.9  
+ 
+ 
+ 
+ 
+Ontario Human Rights Commission        - 6- 
+
+Policy and guidelines on disability and the duty to accommodate 
+Conversely, persons with an ailment who cannot show they were treated unequally 
+because of a perceived or actual disability will be unable to meet even the prima facie 
+test for discrimination. It will always be critical to assess the context of the differential 
+treatment to determine whether discrimination has taken place, and whether the ground 
+of disability is engaged. 
+ 
+2.2 A broader approach to understanding  
+      disability: a social perspective 
+The Supreme Court of Canada has shed new light on the approach to be taken in 
+understanding disability. In Mercier,10 a case arising in Quebec, the Supreme Court 
+made it clear that disability must be interpreted to include its subjective component, 
+since discrimination may be based as much on perceptions, myths and stereotypes  
+as on the existence of actual functional limitations.  
+ 
+In Mercier, the complainants were  denied employment or dismissed when it was 
+discovered that they had medical conditions. However, their conditions did not result  
+in any functional limitations. The employers argued that since the conditions did not  
+give rise to any functional limitations, they could not be “disabilities” under Quebec’s 
+human rights law. The Supreme Court of Canada disagreed.  
+ 
+The Court chose not to create an exhaustive definition of disability. Instead, it opted  
+for an equality-based framework that takes into account evolving biomedical, social  
+and technological developments. This includes a socio-political dimension that 
+emphasizes human dignity, respect and the right to equality. Thus, a disability may be 
+the result of a physical limitation, an ailment, a perceived limitation or a combination of 
+all these factors. The focus is on the effects of the distinction, preference or exclusion 
+experienced by the person and not on proof of physical limitations or the presence of  
+an ailment.  
+ 
+Another Supreme Court of Canada decision11 has since confirmed that “social 
+handicapping,” i.e., society’s response to a real or perceived disability, should be  
+the focus of the discrimination analysis. 
+ 
+2.3 Non-evident disabilities 
+The nature or degree of certain disabilities might render them “non-evident” to others. 
+Chronic fatigue syndrome and back pain, for example, are not apparent conditions. 
+Other disabilities might remain hidden because they are episodic. Epilepsy is one 
+example. Similarly, environmental sensitivities can flare up from one day to the next, 
+resulting in significant impairment to a person’s health and capacity to function, while at 
+other times, this disability may be entirely non-evident. Other examples might include: 
+ persons whose disabilities do not actually result in any functional limitations but 
+who experience discrimination because others believe their disability makes 
+them less able 
+ 
+Ontario Human Rights Commission        - 7- 
+
+Policy and guidelines on disability and the duty to accommodate 
+ persons who have recovered from c onditions but are treated unfairly  
+because of their past condition 
+ persons whose disabilities are episodic or temporary in nature.  
+ 
+Other disabilities may become apparent based on the nature of the interaction, such as 
+when there is a need for oral communication with a person who is deaf, or there is a 
+need for written communication with a person who has a learning disability. A disability 
+might become apparent over time through extended interaction. It might only become 
+known when a disability accommodation is requested, or the disability might remain 
+“non-evident” because the individual chooses not to divulge it for personal reasons. 
+ 
+Regardless of whether a disability is evident or non-evident, a great deal of discrimination 
+faced by persons with disabilities is underpinned by social constructs of “normality” which 
+in turn tend to reinforce obstacles to integration rather than encourage ways to ensure 
+full participation. Because these disabilities are not “seen,” many of them are not well 
+understood in society. This can lead to stereotypes, stigma and prejudice.  
+ 
+2.4 Mental disability 
+Although mental disability is a form of non-evident disability, it raises particular issues 
+that merit independent consideration. Over the years, many employers have expressed 
+the need for specific guidance on the issue of mental disability. Section 10 of the Code 
+expressly includes ment al disabilities. Persons with me ntal disabilitie s face a high 
+degree of stigmatizati on and significant barriers to employ ment opportunities. 12 
+Stigmatization can foster a climate that exacerbates stress, and may trigger or worsen 
+the person’s condition. It may also mean that someone who has a problem and needs 
+help may not seek it, for fear of being labelled.  
+ 
+The Supreme Court of Canada has recognized the distinct disadvantage and negative 
+stereotyping faced by persons with mental disabilities, and has held that discrimination 
+against individuals with mental disabilities is unlawful. In Gibbs v Battlefords,13 the Court 
+struck down an insurance plan for employees with disabilities that limited benefits for 
+mental disabilities to a lower level than for physical disabilities. It is therefore the 
+OHRC’s position that such distinctions are prima facie discriminatory. 
+ 
+3. Prima facie discrimination because of disability  
+Once a disability within the meaning of section 10 of the Code is established, the 
+individual has the burden of showing a prima facie case of discrimination.  
+ 
+Discrimination under the Code can be direct (refusal to grant a job or provide access to 
+services or housing, for example, because of a disability), indirect, constructive (adverse 
+effect) or based on society’s failure to accommodate actual differences. 
+ 
+ 
+Ontario Human Rights Commission        - 8- 
+
+Policy and guidelines on disability and the duty to accommodate 
+In some cases, it will be clear that discrimination has occurred. In others, a preliminary 
+assessment tool may be helpful. The Supreme Court of Canada has suggested three 
+broad inquiries to determine if discrimination has taken place:14 
+ 
+(1) Differential treatment 
+Was there substantively differential treatment, either because of a distinction, exclusion 
+or preference, or because of a failure to take into account the complainant’s already 
+disadvantaged position within Canadian society? 
+ 
+(2) An enumerated ground 
+Was the differential treatment based on an enumerated ground? 
+ 
+(3) Discrimination in a substantive sense 
+Finally, does the differential treatment discriminate by imposing a burden upon, or 
+withholding a benefit from, a person? The discrimination might be based on stereotypes 
+of a presumed group or personal characteristics, or might perpetuate or promote the 
+view that a person is less capable or worthy of recognition or value as a human being  
+or as a member of Canadian society who is equally deserving of concern, respect and 
+consideration. Does the differential treatment amount to discrimination because it 
+makes distinctions that are offensive to human dignity? 
+ 
+Given the clear historical disadvantage experienced by persons with disabilities, it is 
+likely that most differential treatment because of disability will result in a finding of prima 
+facie discrimination.15 This would include not only unfair treatment because of disability, 
+but also neutral factors or requirements that have an adverse impact on persons with 
+disabilities. It would also include inappropriate responses, or a lack of response to the 
+person’s condition or stated need for accommodation. 
+ 
+3.1 Discrimination and insurance 
+Discrimination may also take place where a term or condition of employment requires 
+enrolment in a group insurance contract and an applicant does not qualify for the 
+insurance plan because of disability. The term or condition of employment itself would  
+be viewed as a violation of the Code.16  
+ 
+If an employee is excluded because of a disability from a benefit, pension, 
+superannuation plan or  fund or a contract of group insurance, an employer must 
+compensate the employee an amount equivalent to the contribution that the employer 
+would have otherwise made on behalf of an employee who does not have a disability.17 
+ 
+Compensation to employees takes on different forms, such as contributions to benefit 
+premiums or accrual of vacation credits. Where employers, as a matter of course, pay a 
+certain form of compensation to other employees who are absent from work, employees 
+absent due to disability are also entitled to such compensation.18 
+ 
+ 
+ 
+Ontario Human Rights Commission        - 9- 
+
+Policy and guidelines on disability and the duty to accommodate 
+4. The duty to accommodate 
+4.1 General principles 
+4.1.1 Respect for dignity 
+The duty to accommodate persons with disabilities means accommodation must be 
+provided in a manner that most respects the dignity of the person, if to do so does not 
+create undue hardship.19 Dignity includes consideration of how accommodation is 
+provided and the individual’s own participation in the process.  
+ 
+Human dignity encompasses individual self-respect and self-worth. It is concerned  
+with physical and psychological integrity and empowerment. It is harmed when people 
+are marginalized, stigmatized, ignored or devalued.20 Privacy, confidentiality, comfort, 
+autonomy, individuality and self-esteem are important factors as well to show whether 
+an accommodation maximizes integration and promotes full participation in society.  
+ 
+Different ways of accommodating the needs of persons with disabilities should be 
+considered along a continuum from those ways that are most respectful of privacy, 
+autonomy, integration and other human values, to those that are least respectful of 
+those values.  
+ 
+Perhaps the most common example of an accommodation that demonstrates little 
+respect for the dignity of a person with a disability is a wheelchair entrance over a 
+loading dock or through a service area or garbage room. Persons with disabilities 
+should have the same opportunity as others to enter a building in a manner that is  
+as convenient and pleasant for them as it is for others. 
+ 
+4.1.2 Individualized accommodation 
+The essence of accommodating people with disabilities is individualization. As a result 
+of the three-step test proposed by the Supreme Court of Canada and re-affirmed by the 
+Ontario Court of Appeal in Entrop,21 each person with a disability must be considered, 
+assessed and accommodated individually.  
+ 
+Example: A corporate policy provides for obligatory termination in the event  
+that an employee in a safety-sensitive position tests positive after a breathalyzer 
+test. This blanket policy does not provide for individualized assessment or the 
+appropriateness of the outcome in the circumstances and, accordingly, does not 
+accommodate employees on an individual basis.  
+ 
+There is no set formula for accommodating people with disabilities. Each person's 
+needs are unique and must be considered afresh when an accommodation request  
+is made. A solution may meet one person's requirements but not another's, although 
+many accommodations will benefit large numbers of persons with disabilities. 
+ 
+ 
+ 
+Ontario Human Rights Commission        - 10- 
+
+Policy and guidelines on disability and the duty to accommodate 
+4.1.3 Integration and full participation 
+International human rights standards point to the importance of full participation and 
+enjoyment of life for persons with disabilities. The United Nations’ Declaration of the 
+Rights of Disabled Persons22 provides in sections 3 and 8 that: 
+ 
+3. Disabled persons have the inherent right to respect for their human dignity. 
+Disabled persons, whatever the origin, nature and seriousness of their handicaps 
+and disabilities, have the same fundamental rights as their fellow citizens of the 
+same age, which implies first and foremost the right to enjoy a decent life, as 
+normal and full as possible. 
+[…] 
+ 
+8. Disabled persons are entitled to have their special needs taken into 
+consideration at all stages of economic and social planning. 
+ 
+With these principles in mind, achieving integration and full participation for persons  
+with disabilities requires barrier-free and inclusive design and removal of existing 
+barriers. Preventing and removing barriers means persons with disabilities should  
+be able to access their environment and face the same duties and requirements as 
+everyone else with dignity and without impediment. Where barriers continue to exist 
+because it is impossible to re move those barriers at a given point in time, then 
+accommodation should be provided to the extent possible, short of undue hardship. 
+ 
+It is well established in human rights law that equality may sometimes require different 
+treatment that does not offend the individual’s dignity. In some circumstances, the best 
+way to ensure the dignity of persons with disabilities may be to provide separate or 
+specialized services. However, employment, housing, services and facilities must be 
+built or adapted to accommodate people with disabilities in a way that promotes their 
+integration and full participation. Segregated treatment in services, employment or 
+housing for individuals with disabilities is less dignified and is unacceptable, unless it 
+can be shown that integrated treatment would pose undue hardship or that segregation 
+is the only way to achieve equality.23 
+ 
+4.1.3 (a) Design by inclusion  
+Integration requires up-front barrier-free design and inclusion-by-design to fully integrate 
+persons with disabilities into all aspects of society as much as possible.  
+ 
+This approach combats "social handicapping" and recognizes that social attitudes and 
+actions often contribute to "handicaps": a person may have few or even no limitations 
+other than those created by non-inclusive thinking. The Supreme Court has noted the 
+need to “fine-tune” society so that structures and assumptions do not exclude persons 
+with disabilities from participation in society24 and it has affirmed that standards should 
+be designed to reflect all members of society, insofar as this is reasonably possible.25  
+ 
+ 
+Ontario Human Rights Commission        - 11- 
+
+Policy and guidelines on disability and the duty to accommodate 
+When constructing new buildings, undertaking renovations, purchasing new computer 
+systems, launching new websites, setting up new policies and procedures, offering new 
+services, or implementing new public transit routes, design choices should be made that 
+do not create barriers for persons with disabilities. 
+ 
+Inclusive design is the approach that is most respectful of the dignity of persons with 
+disabilities. 
+ 
+4.1.3(b) Removing barriers 
+Persons with disabilities are currently excluded by many kinds of barriers, including 
+physical, attitudinal and systemic ones. Significant changes are required as part of  
+the duty to accommodate to provide equal access to employment (including collective 
+agreements), transportation systems, buildings (except private residences), rental 
+accommodation, services, restaurants, shopping centres, stores and other places and 
+activities. These changes are necessary to give meaning to  the right to equality and 
+freedom from discriminat ion guaranteed to perso ns with disabilities under Part I of  
+the Code. 
+ 
+A systemic barrier is not just a single rule or policy but a combination of policies and/ 
+or guidelines that result in the exclusion of people identified by a Code ground such as 
+disability. Organizations should understand and be aware of the possibility that systemic 
+barriers may exist within their organization, and actively seek to identify and remove 
+them. 
+ 
+Barrier removal maximizes integration with one’s environment so ideally everyone  
+is able to participate fully and with dignity. Identifying and removing systemic barriers 
+also makes good business sense. It may reduce and prevent the filing of human rights 
+complaints and can make facilities and procedures more comfortable for other groups 
+such as seniors and for all people in general. 
+ 
+4.1.3(c) Accommodating remaining needs 
+Even up-front barrier-free or inclusive design and systematic removal of existing barriers 
+may not result in full participation for persons with disabilities. At this point, differential 
+treatment might be required to provide equal opportunity to full participation. 
+ 
+Again, accommodating remaining needs through differential treatment must be done  
+in a manner that maximizes integration and dignity. 
+ 
+4.2 Legal principles 
+Once a prima facie case of discrimination is found to exist, the legal burden shifts to the 
+person responsible for accommodation to show that the discrimination is justifiable. The 
+following sections will deal with the basic legal test that persons responsible for 
+ 
+Ontario Human Rights Commission        - 12- 
+
+Policy and guidelines on disability and the duty to accommodate 
+accommodation must meet, and with the shared responsibilities of all parties to  
+the accommodation process. 
+ 
+Section 11 of the Code, combined with section 9, prohibits discrimination that results  
+from requirements, qualifications,or factors that may appear neutral but which have  
+an adverse effect on persons with disabilities. This is often called “adverse effect,”  
+or “constructive” discrimination. Secti on 11 allows the person responsible for 
+accommodation to demonstrate that the requ irement, qualificati on or factor is 
+reasonable and bona fide  by showing that the needs of the group to which the 
+complainant belongs ca nnot be accommodated wit hout undue hardship. 
+ 
+Section 17 also creates an obligation to accommodate, specifically under the ground  
+of disability. Section 17 states that a right is not infringed if the person with a disability  
+is incapable of performing or fulfilling the essential duties or requirements attending the 
+exercise of the right. However, this defence is not available unless it can be shown that 
+the needs of the person cannot be accommodated without undue hardship. 
+ 
+Section 17 addresses two important differences between disability and other Code 
+grounds.26 First, it recognizes that discrimination against persons with disabilities is not 
+always grounded in negative stereotypes but rather can be based on society’s failure  
+to accommodate actual differences. Second, it emphasizes the need for individualized 
+accommodation, because the ground of disability “means vastly different things 
+depending upon the individual and the context.”27 
+ 
+The Ontario Court of Appeal has confirmed that both sections 11 and 17 apply to 
+persons with disabilities.28 However, as a result of two landmark decisions of the 
+Supreme Court of Canada,29 the distinction between direct discrimination and adverse 
+effect discrimination has become of much less practical significance. The Ontario Court 
+of Appeal has confirmed that this “unified approach” should be applied to Ontario human 
+rights law as well.30 The practical result is that in most cases of discrimination on the 
+ground of disability, individualized accommodation will be necessary. 
+ 
+The Supreme Court of Canada sets out a framework for examining whether the duty to 
+accommodate has been met.31 If prima facie discrimination is found to exist, the person 
+responsible for accommodation must establish on a balance of probabilities that the 
+standard, factor, requirement or rule: 
+1. was adopted for a purpose or goal that is rationally connected to the function 
+being performed, 
+2. was adopted in good faith, in the belief t hat it is necessary for the fulfilment  
+of the purpose or goal, and 
+3. is reasonably necessary to accomplish its purpose or goal, in  the sense that  
+it is impossible to accommodate the claimant without undue hardship. 
+ 
+As a result of this test, the rule or standard itself must be inclusive and must 
+accommodate individual differences up to the point of undue hardship rather than 
+maintaining discriminatory standards supplemented by accommodation for those  
+ 
+Ontario Human Rights Commission        - 13- 
+
+Policy and guidelines on disability and the duty to accommodate 
+who cannot meet them. This ensures that each person is assessed according to  
+his or her own personal abilities instead of being judged against presumed group 
+characteristics.32 
+ 
+The ultimate issue is whether the person responsible for accommodation has shown 
+that accommodation has been provided up to the point of undue hardship. In this 
+analysis, the procedure to assess accommodation is as important as the substantive 
+content of the accommodation.33 
+ 
+The following non-exhaustive factors should be considered in the course of the 
+analysis:34  
+ whether the person responsible for accommodation investigated  
+alternative approaches that do not have a discriminatory effect 
+ reasons why viable alternat ives were not implemented 
+ ability to have differing standards t hat reflect group or individual  
+differences and capabilities 
+ whether persons responsible fo r accommodation can meet their  
+legitimate objectives in a less discriminatory manner 
+ whether the standard is properly designed to ensure the desired qualification  
+is met without placing undue burden on those to whom it applies 
+ whether other parties who are obliged to assist in the search for accommodation 
+have fulfilled their roles. 
+ 
+4.3 Most appropriate accommodation 
+The duty to accommodate requires that the most appropriate accommodation be 
+determined and then be undertaken, short of undue hardship. The most appropriate 
+accommodation is one that most respects the dignity of the individual with a disability, 
+meets individual needs, best promotes integration and full participation, and ensures 
+confidentiality. 
+ 
+Accommodation is a process and is a matter of degree, rather than an all-or-nothing 
+proposition, and can be seen as a continuum. At one end of this continuum would  
+be full accommodation that most respects the person's dignity. Next is phased-in 
+accommodation over time, followed by the most appropriate accommodation only  
+being implemented once sufficient reserve funds have been set aside. Alternative 
+accommodation (that which would be less than “ideal”) might be next on the continuum 
+when the most appropriate accommodation is not feasible. Alternative accommodation 
+might also be accomplished at a later date if immediate implementation would result  
+in undue hardship. Or, alternative accommodation might be implemented as an interim 
+solution while the most appropriate accommodation is being phased in or implemented 
+at a later date.  
+ 
+Whether an accommodation is “appropriate” is a determination completely distinct and 
+separate from whether the accommodation would result in "undue hardship" (the test 
+that has to be met under sections 11 and 17(2) of the Code).  
+ 
+Ontario Human Rights Commission        - 14- 
+
+Policy and guidelines on disability and the duty to accommodate 
+Accommodation will be considered appropriate if it will result in equal opportunity  
+to attain the same level of performance, or to enjoy the same level of benefits and 
+privileges experienced by others or if it is proposed or adopted for the purpose of 
+achieving equal opportunity, and meets the individual’s disability-related needs. If  
+the accommodation meets the individual’s needs and does so in a way that most 
+respects dignity, then a determination can be made as to whether or not this “most 
+appropriate” accommodation would result in undue hardship. 
+ 
+The Tribunal has ruled that short of undue hardship, the highest point in the continuum  
+of accommodation must be achieved.35 However, if there is a choice between two 
+accommodations which are equally responsive to the person’s needs in a dignified 
+manner, then those responsible are entitled to select the one that is less expensive or 
+that is less disruptive to the organization.  
+ 
+4.3.1 Essential duties and the current job 
+The Code guarantees equal treatment to all persons capable of performing the essential 
+duties or requirements of the job or serv ice. No one can be judged incapable of 
+performing those duties until efforts have been made to accommodate the individual  
+up to the point of undue hardship. The first step is to separate the essential from the 
+non-essential duties of the job. Where possible, non-essential tasks can be reassigned 
+to another person. The person with the disability should then be assessed in terms of 
+his or her ability to perform the essential duties, and accommodation should be 
+considered on that basis. 
+ 
+There is little guidance on how to distinguish between essential duties and others.  
+In one Tribunal decision, the word “essential” was defined as follows: 
+ 
+“Essential” means that which is “needed to make a thing what it is;  
+very important; necessary” -Synonyms are “indispensable, requisite,  
+vital.” Thus, peripheral or incidental, non-core or non-essential aspects  
+of a job are not pertinent to a determination under [s. 17(1)].36 
+ 
+Conclusions about inability to perform essential duties should not be reached without 
+actually testing the ability of the person. It is not enough for the employer or person to 
+assume that the person cannot perform an essential requirement. Rather, there must  
+be an objective determination of that fact.37 
+ 
+The duty to accommodate may require employers to consider modifying performance 
+standards or productivity targets. The term “performance standard” refers broadly  
+to qualitative or quantitative standards that may be imposed on some or all aspects  
+of work, whether they are set by the employer or through collective bargaining. A 
+productivity target is a performance standard that relates specifically to the output of 
+work expected by the employer. Performance standards generally can be distinguished 
+from qualification standards, which are the skills or attributes that one must have to be 
+eligible for a particular job: 
+ 
+Ontario Human Rights Commission        - 15- 
+
+Policy and guidelines on disability and the duty to accommodate 
+Production standards identify the level at which an employee must perform job 
+functions in order to perform successfully. Qualification standards, on the other 
+hand, identify the skills and abilities necessary to perform the functions at the 
+required level.38 
+ 
+The central issue in determining whether or how performance standards should be 
+modified is whether the standards in question are essential duties or requirements 
+within the meaning of section 17 of the Code. If the person is unable to perform the 
+standard, but the standard is not considered an essential part of the job, it can be 
+changed or the function removed from the employee altogether and reassigned.  
+ 
+If the standard is essential, the employer is nevertheless required to accommodate  
+the employee under section 17(2) of the Code. Keeping in mind the overall objective  
+of the inclusion of employees with disabilities in the workplace, sections 17 (1) and (2) 
+of the Code together include an employer’s obligation to accommodate a person. This 
+accommodation may include an adjustment of that performance standard as long as 
+doing so does not result in undue hardship. If it does amount to undue hardship, the 
+employer has a defence.  
+ 
+This does not preclude the employer from enforcing performance standards that are 
+unrelated to the disability. The employer is entitled to a productive employee and to 
+develop standards and targets that maximize organizational objectives.  
+ 
+4.3.2 Alternative work 
+Although accommodation in the pre-disability job is always preferable, it may not always 
+be possible. The issue of whether an employee is entitled to have access to a job other 
+than the pre-disability job is a matter of some debate. Nothing in the Code or in section 
+17 specifically restricts the requirement to accommodate a worker with disability to the 
+pre-disability position. Conversely, nothing in section 17 expressly authorizes it either. 
+Nevertheless, in light of the broad and purposive interpretation that should be afforded 
+to human rights legislation, it is the OHRC’s view that accommodation in a job other 
+than the pre-disability job may be appropriate in some circumstances. Section 17 may 
+therefore include access to alternative work. Some of the following considerations may 
+assist employers in determining whether such accommodation is available under 
+section 17(2).  
+ 
+The following questions should be considered: 
+ Is alternative work possible and available, at present or in the near future? 
+ If it is not available, can a new position be created without causing undue 
+hardship? 
+ Does it require additional training  and does the training impose undue hardship? 
+ Do the tasks performed match the job descrip tion, or is there flexibility in the 
+workplace with regard to an employee’s responsibilities? 
+ Does the alternative work poli cy contravene a collective agreement?  
+ 
+Ontario Human Rights Commission        - 16- 
+
+Policy and guidelines on disability and the duty to accommodate 
+ What are the terms of the collectiv e agreement or individual contract  
+of employment? 
+ What are the past practices of the workplace? How interchangeable are 
+workers? Do employees frequently change positions either permanently  
+or temporarily for reasons other than disability accommodation?39 
+ 
+Depending on how the previous questions are answered, accommodation may 
+therefore include job restructuring, reassignment to open positions, retraining for 
+alternative positions or job bundling if that would not constitute undue hardship for  
+the employer. This will depend on the circumstances of the employment and the  
+labour environment at a given workplace. In the final analysis, the employee must  
+be able to perform a useful and productive job for the employer.40 
+ 
+Three of these options are discussed in the following sections.  
+ 
+4.3.2(a) Temporary alternative work 
+The term "alternative work" means different work or work that does not necessarily 
+involve similar skills, responsibilities and compensation. Temporary alternative work 
+may be an appropriate accommodation either in a return to work context, or in a 
+situation where a disability renders an employee temporarily unable to accomplish  
+the pre-disability job.  
+ 
+Temporary alternative work can be an appropriate accommodation to assist a person 
+where the nature of the disability and its limitations are temporary or episodic.  
+ 
+4.3.2(b) Permanent alternative work 
+An employer-initiated alternative work arrangement must consider the circumstances  
+of the individual's return to work. When an employee asks to be reinstated in a previous 
+position, the employer may make the appropriate inquiries to assess whether the 
+employee is fully able to carry out the essential functions of the job. Whenever possible, 
+the returning employee should be given an opportunity to prove his or her ability to 
+perform the pre-disability job. 41  
+ 
+Where the employee can no longer perform his or her current job and if alternative work 
+is appropriate based on the analysis described above, the OHRC is of the view that the 
+employer should consider permanent alternative work. This is consistent with a line of 
+labour arbitration cases that have found that the duty to accommodate may include 
+significant workplace reorganization42 as well as with the obligation to provide suitable 
+work in order to satisfy the duty to re-employ injured workers.43 
+ 
+Reassignment to a vacant position should be considered an appropriate accommodation 
+only when accommodation in the current position would cause undue hardship. The 
+vacant position must be vacant within a reasonable amount of time, but the employer  
+is not required to "promote" the employee. Reassignment is not available to job 
+ 
+Ontario Human Rights Commission        - 17- 
+
+Policy and guidelines on disability and the duty to accommodate 
+applicants. If reassignment creates a conflict because of a collective agreement, 
+accommodation needs should prevail over the collective agreement. When reassignment 
+takes place, the person must be qualified for the reassigned position. The vacant position 
+must be equivalent to the current one, although a less equivalent position would be 
+acceptable if no equivalent one exists.  
+ 
+4.3.3 Return to work 
+Accommodating a person who has been absent from work may involve any of the 
+above forms of accommodation but also raises unique issues. People who return to 
+work after an absence related to a ground in the Code are protected by the Code.44 
+They generally have the right to return to their jobs, and this is frequently referred to as 
+the “pre-disability job.” Both employers and unions must co-operate in accommodating 
+employees who are returning to work. Accommodation is a fundamental and integral 
+part of the right to equal treatment in the return to work context. 
+ 
+The right to return to work for persons with disabilities only exists if the worker can  
+fulfil the essential duties of the job after accommodation short of undue hardship.45  
+If a person cannot fulfil the essential duties of the job, despite the employer's effort  
+to accommodate short of undue hardship, there is no right to return to work. As noted  
+in the preceding section, there may also be a right to alternative work. 
+ 
+Under the Code, there is no fixed rule as to how long an employee with a disability may 
+be absent before the duty to accommodate has been met. This will depend on the ability 
+of the employee to perform the essential duties of th e job considering the unique 
+circumstances of every absence and the nature of the employee’s condition, as well  
+as circumstances in the workplace. Also important is the predictability of absence, both 
+in regards to when it will end and if it may recur and the frequency of the absence. The 
+employee’s prognosis and length of absence are also important considerations. It is 
+more likely that the duty to accommodate will continue with a better prognosis, 
+regardless of the length of absence.  
+ 
+The duty to accommodate does not necessarily guarantee a limitless right to return to 
+work. On the other hand, a return to work program that relies on arbitrarily selected cut-
+offs or that requires an inflexible date of return may be challenged as a violation of the 
+Code. Ultimately the test of undue hardship is the relevant standard for assessing return 
+to work programs. 
+ 
+4.4 Duties and responsibilities in the accommodation process 
+The accommodation process is a shared responsibility. Everyone involved should co-
+operatively engage in the process, share information and avail themselves of potential 
+accommodation solutions.  
+ 
+ 
+ 
+ 
+Ontario Human Rights Commission        - 18- 
+
+Policy and guidelines on disability and the duty to accommodate 
+The person with a disability is required to:  
+ advise the accommodation provider  of the disability (although the 
+accommodation provider does not generally have the right to know  
+what the disability is)  
+ make her or his needs known to the bes t of his or her ability, preferably  
+in writing, so that the person responsible for accommodation may make  
+the requested accommodation 
+ answer questions or provide informati on regarding relevant restrictions  
+or limitations, including information from health care professionals, where 
+appropriate and as needed 
+ participate in discussions regarding  possible accommodation solutions 
+ co-operate with any experts whose assistance is required to manage the 
+accommodation process or when information is required that is unavailable  
+to the person with a disability 
+ meet agreed-upon performance and job standards once accommodation  
+is provided46 
+ work with the accommodation prov ider on an ongoing basis to manage  
+the accommodation process 
+ discuss his or her disability only wi th persons who need to know. This  
+may include the supervisor, a union representative or human rights staff.  
+ 
+The employer is required to:  
+ accept the employee’s request for accommodation in good faith, unless  
+there are legitimate reasons for acting otherwise 
+ obtain expert opinion or advice where needed 
+ take an active role in ensuring that alternative approaches and possible 
+accommodation solutions are investigated,47 and canvass various forms  
+of possible accommodation and alternative solutions, as part of the duty  
+to accommodate48 
+ keep a record of the accommodation request and action taken 
+ maintain confidentiality 
+ limit requests for information to those reasonably related to the nature of the 
+limitation or restriction so as to be able to respond to the accommodation request 
+ grant accommodation requests in a ti mely manner, to the point of undue 
+hardship, even when the request for accommodation does not use any specific 
+formal language 
+ bear the cost of any required medi cal information or documentation. For 
+example, doctors’ notes and letters setting out accommodation needs,  
+should be paid for by the employer. 
+ 
+Unions and professional associations are required to: 
+ take an active role as part ners in the accommodation process49 
+ share joint responsibility with the employer to facilitate accommodation50 
+ support accommodation measures irrespective of collective agreements,  
+unless to do so would create undue hardship. 
+ 
+Ontario Human Rights Commission        - 19- 
+
+Policy and guidelines on disability and the duty to accommodate 
+The duty to accommodate a disability exists for needs that are known. Organizations and 
+persons responsible for accommodation are not, as a rule, expected to accommodate 
+disabilities of which they are unaware. However, some individuals may be unable to 
+disclose or communicate their needs because of the nature of their disability. In such 
+circumstances, employers should attempt to assist a person who is clearly unwell or 
+perceived to have a disability, by offering assistance and accommodation. On the other 
+hand, employers are not expected to diagnose illness or “second-guess” the health 
+status of an employee. 
+ 
+Example: An employer is unaware of an employee's drug addiction but 
+perceives that a disability might exist. The employer sees that the employee  
+is having difficulty performing, and is showing signs of distress. If the employer 
+imposes serious sanctions or terminates the employee for poor performance, 
+without any progressive performance management and attempts to 
+accommodate, these actions may be found to have violated the Code.51 
+ 
+Before terminating or sanctioning an employee for “unacceptable behaviour,” an 
+employer might first consider whether the actions of the employee are caused by a 
+disability, especially where the employer is aware or perceives that the employee  
+has a disability. Employers should always inform all employees that a disability-related 
+assessment or accommodation can be provided as an option to address performance 
+issues. Progressive performance management and discipline as well as employee 
+assistance supports ensure that all employees have a range of opportunities to address 
+performance issues on an individualized basis before sanctions or termination are 
+considered. For example, severe change in an employee’s behaviour could signal to  
+an employer that the situation warrants further examination. 
+ 
+Mental illness should be addressed and accommodated in the workplace like any  
+other disability. In some cases, an employer may be required to pay special attention  
+to situations that could be linked to mental disability. Even if an employer has not been 
+formally advised of a mental disability, the perception of such a disability will engage the 
+protection of the Code. Prudent employers should try to offer assistance and support to 
+employees before imposing severe sanctions. It should be borne in mind that some 
+mental illnesses may render the employee incapable of identifying his or her needs.  
+ 
+Example: John has bipolar disorder. He has chosen not to disclose to his 
+employer because he is concerned about how he would be treated at work  
+if it were known that he had a mental disability. He experiences a crisis at  
+work, followed by a failure to appear at work for several days. The employer  
+is concerned about John’s absence and recognizes that termination for failure  
+to report to work may be premature. The employer offers John an opportunity  
+to explain the situation after treatment has been received and the situation has 
+stabilized. Upon learning that a medical issue exists, the employer offers 
+assistance and accommodation. 
+ 
+ 
+Ontario Human Rights Commission        - 20- 
+
+Policy and guidelines on disability and the duty to accommodate 
+Once disability-related needs are known, the legal onus shifts to those with the duty  
+to accommodate. For example, counselling or referral through Employee Assistance 
+Programs (EAPs) could be the solution for an underlying disability that might be 
+aggravated by workplace or personal stress.  
+ 
+There may be instances where there is a reasonable and bona fide basis to question 
+the legitimacy of a person’s request for accommodation or the adequacy of the 
+information provided. In such cases, the accommodation pr ovider may request 
+confirmation or additional information from a qualified health care professional to obtain 
+the needed information. No one can be forced to submit to an independent medical 
+examination, but failure to respond to reasonable requests may delay the provision of 
+accommodation until such information is provided. 
+  
+4.4.1 Confidentiality 
+Persons with disabilities are not necessarily required to disclose private or confidential 
+matters, and should disclose information to the accommodation provider only as it 
+pertains to the need for accommodation and any restrictions or limitations.  
+ 
+Example: An employee with AIDS has provided documentation to demonstrate 
+her need for a flexible schedule, rest periods to manage periods of fatigue, and 
+time to attend appointments with health care professionals. However, it is not 
+necessary for the employee to disclose that she has AIDS. The employer is 
+entitled to know that the employee has a disability and that she needs certain 
+accommodations to remain productive at work. 
+ 
+Maintaining confidentiality for individuals with mental illness may be especially important 
+because of the strong social stigmas and stereotyping that still persist about such 
+disabilities.  
+ 
+Documentation supporting the need for particular accommodation (flexible hours, a 
+different supervisor, a particular technical aid, for example) should be provided only  
+to those who need to be aware of the information. It may be preferable in some 
+circumstances for information to be provided to the company's health department  
+or human resources staff rather than directly to the supervisor, to further protect 
+confidentiality. Medical documentation should be kept separate from the person’s 
+corporate file.  
+ 
+5. Undue hardship 
+The Code prescribes three considerations in assessing whether an accommodation 
+would cause undue hardship. These are: 
+ cost 
+ outside sources of funding, if any 
+ health and safety requirements, if any.  
+ 
+ 
+Ontario Human Rights Commission        - 21- 
+
+Policy and guidelines on disability and the duty to accommodate 
+Accommodating someone with a disability is seldom as expensive or difficult as is 
+sometimes imagined. Over two-thirds of job accommodations cost under $500; many 
+cost nothing at all.52 
+ 
+The Code sets out only three considerations. This means that no other considerations, 
+other than those that can be brought into those three standards, can be properly 
+considered under Ontario law. There have been cases that have included such other 
+factors as employee morale or conflict with a collective agreement. However, the 
+Ontario legislature has seen fit to enact a higher standard by specifically limiting undue 
+hardship to three particular components. The broad and purposive interpretation of the 
+Code and human rights generally means that rights must be construed liberally and 
+defences to those rights should be construed narrowly.53 Moreover, the Code has 
+primacy over legislation,54 and also prevails over agreements such as collective 
+agreements.55  
+ 
+Several factors are therefore excluded from considerations that are frequently raised  
+by respondents. These are business inconvenience, employee morale, customer 
+preference and collective agreements or contracts.56 
+ 
+5.1 Excluded factors 
+5.1.1 Business inconvenience  
+"Business inconvenience" is not a defence to the duty to accommodate. If there are 
+demonstrable costs attributable to decreased productivity, efficiency or effectiveness, 
+they can be taken into account in assessing undue hardship under the cost standard, 
+providing they are quantifiable and demonstrably related to the proposed 
+accommodation.  
+ 
+5.1.2 Employee morale 
+In some cases, accommodating an employee may generate negative reactions from  
+co-workers who are either unaware of the reason for the accommodation or who  
+believe that the employee is receiving an undue benefit. The reaction may range from 
+resentment to hostility. However, the person responsible for providing accommodation 
+should ensure that staff are supportive and are helping to foster an environment that is 
+positive for all employees. It is not acceptable to allow discriminatory attitudes to fester 
+into workplace hostilities that poison the environment for disabled workers. 
+ 
+Moreover, people with disabilities have a right to accommodation with dignity. It is  
+an affront to a personl’s dignity if issues of morale and misconception stemming from 
+perceived unfairness are not prevented or dealt with. In such cases, those responsible 
+will not have met their duty to provide accommodation with dignity.  
+ 
+ 
+Ontario Human Rights Commission        - 22- 
+
+Policy and guidelines on disability and the duty to accommodate 
+5.1.3 Third-party preference 
+Human rights case law notes that third party preferences do not constitute a justification 
+for discriminatory acts, and the same rule applies to customer preferences.57 
+ 
+5.1.4 Collective agreements or contracts 
+Collective agreements or other contractual arrangements cannot act as a bar to 
+providing ccommodation. The Courts have determined that collective agreements and 
+contracts must give way to the requirements of human rights law. To allow otherwise 
+would be to permit the parties to contract out of their Code rights under the auspices  
+of a private agreement. Accordingly, subject to the undue hardship standard, the terms 
+of a collective agreement or other contractual arrangement cannot justify discrimination 
+that is prohibited by the Code. 
+ 
+A union may cause or contribute to discrimination by participating in formulating a work 
+rule, such as a provision in the collective agreement, that has a discriminatory effect.58 
+Unions and employers are jointly responsible for negotiating collective agreements that 
+comply with human rights laws. They should build conceptions of equality into collective 
+agreements.59 
+ 
+Example: When a union and employer are negotiating a collective agreement, 
+the principle of seniority is maintained as a general principle. However, the  
+union and employer can together address how employees with disabilities will  
+be accommodated. 
+ 
+However, if an employer and a union cannot reach an agreement on how to resolve  
+an accommodation issue, the employer must make the accommodation in spite of the 
+collective agreement. If the union opposes the accommodation, or does not co-operate 
+in the accommodation process, then the union may be named as a respondent in an 
+application filed with the Tribunal. 
+ 
+Unions will have to meet the same requirements of demonstrating undue hardship 
+having regard to costs, and health and safety. For example, if the disruption to a 
+collective agreement can be shown to create direct financial costs, this can be taken 
+into account under the cost standard. Issues surrounding terms of a collective 
+agreement relating to health or safety are dealt with under the section dealing with 
+“health and safety.” 
+ 
+In non-unionized environments, employers can make flexible employment arrangements 
+to meet their duty to accommodate. The same sort of flexible employment arrangements 
+should be considered in unionized environments, although they may fall outside the 
+collective agreement where the duty to accommodate arises. 
+  
+ 
+ 
+ 
+ 
+Ontario Human Rights Commission        - 23- 
+
+Policy and guidelines on disability and the duty to accommodate 
+5.2 Onus of proof and objective evidence 
+To claim the undue hardship defence, the person who is responsible for making the 
+accommodation has the onus of proof.60 It is not up to the person with a disability to 
+prove that the accommodation can be accomplished without undue hardship. 
+ 
+The nature of the evidence required to prove undue hardship must be objective, real, 
+direct and, in the case of cost, quantifiable. The person responsible for accommodation 
+must provide facts, figures and scientific data or opinion to support a claim that the 
+proposed accommodation in fact causes undue hardship. A mere statement, without 
+supporting evidence, that the cost or risk is “too high” based on impressionistic views  
+or stereotypes will not be sufficient.61 
+ 
+Example: A deaf patient requires a sign language interpreter in a hospital.  
+The hospital administrator refuses to provide the accommodation, stating, “If 
+everyone wanted signers, it would bankrupt us.” The hospital administrator  
+does not provide financial information to justify this claim, and does not provide 
+demographic evidence to show the likely number of patients who may require 
+signers. As a result, the hospital’s defence will be unlikely to succeed.  
+ 
+Objective evidence includes, but is not limited to: 
+ financial statements and budgets 
+ scientific data, information and data  resulting from empirical studies 
+ expert opinion 
+ detailed information about the activi ty and the requested accommodation 
+ information about the conditions surroundi ng the activity and their effects  
+on the person or group with a disability. 
+ 
+5.3 Elements of the undue hardship defence 
+5.3.1 Cost 
+The Supreme Court of Canada has said that, “one must be wary of putting too low  
+a value on accommodating the disabled. It is all too easy to cite increased cost as  
+a reason for refusing to accord the disabled equal treatment”.62 The cost standard  
+is therefore a high one.  
+ 
+Costs will amount to undue hardship if they are: 
+ quantifiable; 
+ shown to be related to the accommodation; and 
+ so substantial that they would alter the essential nature of the enterprise,  
+or so significant that they would substantially affect its viability. 
+ 
+This test will apply whether the accommodation will benefit one person or a group. 
+ 
+ 
+Ontario Human Rights Commission        - 24- 
+
+Policy and guidelines on disability and the duty to accommodate 
+The costs that remain after all costs, benefits, deductions and other factors have  
+been considered will determine undue hardship. 
+ 
+All projected costs that can be quantified and shown to be related to the proposed 
+accommodation will be taken into account. However, mere speculation (for example, 
+about monetary losses that may follow the accommodation of the person with a 
+disability) will not generally be persuasive. 
+ 
+The financial costs of the accommodation may include:  
+ capital costs, such as the instal lation of a ramp, the purchase of screen 
+magnification or software  
+ operating costs such as sign language interpreters, personal attendants  
+or additional staff time 
+ costs incurred as a result of restru cturing that are necessitated by the 
+accommodation 
+ any other quantifiable costs incurred directly as a result of the accommodation. 
+ 
+Concerns may arise about the potential increase in liability insurance premiums by  
+the perceived health and safety risks of having persons with disabilities on particular  
+job sites. Increased insurance premiums or sickness benefits would be included as 
+operating costs where they are quantified, such as actual higher rates (not hypothetical), 
+and are shown not to be contrary to the principles in the Code with respect to insurance 
+coverage.63 Where the increased liability is quantifiable and provable, and where efforts to 
+obtain other forms of coverage have been unsuccessful, insurance costs can be included.  
+ 
+For the purposes of determining whether a financial cost64 would alter the essential nature 
+or substantially affect the viability of the organization, consideration will be given to: 
+ the ability of the person responsible fo r accommodation to recover the costs  
+of accommodation in the normal course of business (see section 4.4.1) 
+ the availability of any grants, subsidies or loans from the federal, provincial or 
+municipal government or from non-government sources which could offset the 
+costs of accommodation 
+ the ability of the person responsible for accommodation to distribute the costs  
+of accommodation throughout the whole operation (see section 4.4.2) 
+ the ability of the person responsible for accommodation to amortize or depreciate 
+capital costs associated with the accommodation according to generally accepted 
+accounting principles, 
+ the ability of the person responsible fo r accommodation to deduct from the costs 
+of accommodation any savings that may be available as a result of the 
+accommodation, including: 
+o tax deductions and other government  benefits (see section 4.4.4) 
+o an improvement in productivity, efficiency or effectiveness (see  
+section 4.4.5) 
+o any increase in the resale value of  property, where it is reasonably 
+foreseeable that the property might be sold 
+o any increase in clientele, potential labour pool, or tenants 
+ 
+Ontario Human Rights Commission        - 25- 
+
+Policy and guidelines on disability and the duty to accommodate 
+o the availability of the Workplac e Safety and Insurance Board's  
+Second Injury and Enhancement Fund 65 (see section 4.4.6). 
+ 
+Larger organizations, includi ng businesses and governmen ts, may be in a better 
+position to set an example or provide leadership in accommodating persons with 
+disabilities. Accommodation costs will likely be more easily absorbed by larger 
+organizations. Large employers, for example, are more likely to have the opportunities 
+and the means to provide employment opportunities for greater numbers of persons 
+with disabilities in a manner that accommodates their needs. 
+ 
+The phrase "benefits of enhancing equality" is intended to include consideration of 
+benefits from the accommodation that may accrue to a person's co-workers, family, 
+friends, fellow students or the general public by the accommodation being made. 
+ 
+5.3.1(a) Heritage buildings 
+The accessibility of heritage buildings raises controversia l issues. A general 
+exemption from accessibility requirements fo r heritage properties is not included in 
+the Policy because it would result in broad exclusions as more and more buildings 
+gain protection because of their heritage st atus. In a situation involving a heritage 
+property, it is recognized that the cost of making the propos ed accommodation may 
+be increased by the necessity to  preserve defining historic  design features. However, 
+aesthetic features, in and of themselves, that  are not historic desi gn features, are not 
+to be included in the assessment. 
+ 
+The test of altering the essential nature or substantially affecting the viability of the 
+enterprise allows the preservation of the defining features of a heritage property to  
+be taken into account as a justifiable factor in assessing undue hardship. 
+ 
+5.3.2 Outside sources of funding 
+The availability of outside sources of funding may alleviate accommodation costs.66 
+Organizations can make use of outside resources to meet their duty to accommodate  
+and must first do so before claiming undue hardship. 
+ 
+There are three potential sources of funding to consider:  
+ 
+1. Funds that may be available to the individual only, provided through 
+    government programs and that are linked to the individual’s disability.  
+Resources such as services or programs, might be available to accommodate the 
+needs of persons with disabilities that could also aid them at work, in their apartment  
+or while accessing a service. 
+ 
+ 
+ 
+ 
+ 
+Ontario Human Rights Commission        - 26- 
+
+Policy and guidelines on disability and the duty to accommodate 
+Persons with disabilities might be expected to first avail themselves of outside 
+resources available to them when making accommodation requests to an employer  
+or service provider. However, such resources should most appropriately meet the 
+accommodation needs of the individual, including respect for dignity. 
+  
+2. Funds that would assist employers and service  
+    providers defray the cost of accommodation.  
+Other outside accommodation resources might be available to a person with a disability 
+when more than one organization has an overlapping or interconnected sphere of 
+responsibility for the duty to accommodate. 
+  
+Example: A lawyer, who is deaf and who works for a large law firm, receives 
+real-time captioning or sign language interpreter accommodation funded and 
+provided by a court. While the lawyer is acting in court, the court takes 
+responsibility for the duty to accommodate, relieving the lawyer’s employer  
+of its responsibility during this time period only. 
+  
+3. Funding programs to improve accessibility for persons  
+    with disabilities –  a corporate or organizational responsibility.  
+Governments have a positive duty to ensure that services generally available to  
+the public are also available to persons with disabilities. Governments should not  
+be allowed to evade their human rights responsibilities by delegating implementation  
+of their policies and programs to private entities.67 An organization that assumes 
+responsibility for a government program must attend to the accommodation needs  
+of its users. 
+ 
+5.3.3 Health and safety 
+Health and safety requirements may be contained in a law or regulation, or result  
+from rules, practices or procedures that have been established independently or in 
+conjunction with other businesses or services engaged in similar kinds of activity.  
+ 
+Organizations have a responsibility to undertake health and safety precautions that 
+would ensure that the health and safety risks in their facilities or services are no greater 
+for persons with disabilities than for others. Where a health and safety requirement 
+creates a barrier for a person with a disability, the accommodation provider should 
+assess whether the requirement can be waived or modified. If waiving the health and 
+safety requirement is likely to result in a violation of the Occupational Health and Safety  
+Act (OHSA), the employer should generate alternative measures based on the equivalency 
+clauses of the OHSA.68 The employer is required to show an objective assessment of 
+the risk as well as demonstrate how the alternative measure provides equal opportunity 
+to the person with a disability. The employer might be able to claim undue hardship after 
+these measures were undertaken and a significant risk still remains.  
+ 
+ 
+ 
+ 
+Ontario Human Rights Commission        - 27- 
+
+Policy and guidelines on disability and the duty to accommodate 
+5.3.3(a) Bona fide and reasonable requirements 
+Health and safety risks will amount to undue hardship if the degree of risk that remains 
+after the accommodation has been made outweighs the benefits of enhancing equality 
+for persons with disabilities. The person responsible for accommodation will have to 
+satisfy the three-step test set out in Section 3.2.  
+ 
+Health and safety standards that are genuinely adopted for the protection of workers, 
+clients or the public will usually meet the second step of the test. On the other hand, a 
+standard that is established to circumvent human rights legislation will not meet this test.  
+ 
+The third step requires the organization to demonstrate that the standard is reasonably 
+necessary and that accommodation cannot be accomplished without incurring undue 
+hardship.  
+ 
+Health or safety risks that result in undue hardship could be reduced to acceptable 
+levels over time (for example, by adding safety features or changing job descriptions to 
+accommodate an employee with a disability). Development of a new technology to allow 
+an employee with a disability to operate certain machinery more safely, for example, 
+may take some time. In principle, therefore, a person responsible for accommodation 
+could be required to phase in an accommodation that would lessen the health or safety 
+risk over time, provided that the delay is reasonable and justified in relation to the 
+development time attributed to the accommodation.  
+ 
+5.3.3(b) Assumption of risk 
+A person with a disability may wish to assume a risk. The risk created by modifying or 
+waiving a health and safety requirement is to be weighed against the right to equality of 
+the person with a disability. Where the risk is so significant as to outweigh the benefits 
+of equality, it will be considered to create undue hardship. 
+ 
+In determining whether an obligation to modify or waive a health or safety requirement, 
+whether established by law or not, creates a significant risk to any person, consideration 
+will be given to: 
+ the significance, probability and seriousness of the risk 
+ the other types of risks  that the person responsible for accommodation  
+is assuming within the organization 
+ the types of risks tolerated within society as a whole, reflected in legislated 
+standards such as licensing standards, or in similar types of organizations. 
+ 
+The “risk” that remains after all precautions including accommodations (short  
+of undue hardship based on cost) have first been made to reduce the risk will 
+determine undue hardship. 
+ 
+Where a modification or waiver of a health and safety requirement could place an 
+individual with a disability at risk, the person responsible for accommodation is obliged 
+to explain the potential risk to the person. Where possible, persons with disabilities 
+ 
+Ontario Human Rights Commission        - 28- 
+
+Policy and guidelines on disability and the duty to accommodate 
+should be allowed to assume risk with dignity, subject to the undue hardship standard. 
+At the same time, the organization has an obligation under health and safety legislation 
+not to place persons in a situation of direct threat of harm. High probability of substantial 
+harm to anyone will constitute an undue hardship.  
+ 
+Seriousness of the risk 
+The fact that a person has a disability, in and of itself, is not sufficient to establish that 
+there is a risk. Evidence will be required to prove the nature, severity, probability and 
+scope of the risk.  
+ 
+In determining the seriousness or significance of a risk, the following factors should be 
+considered: 
+ the nature of the risk 
+o what could happen that would be harmful? 
+ the severity of the risk 
+o how serious would the harm be if it occurred? 
+ the probability of the risk 
+o how likely is it that the potential harm will actually occur?  
+ is it a real risk, or mere ly hypothetical or speculative? 
+o could it occur frequently? 
+ the scope of the risk 
+o who will be affected by the event if it occurs? 
+ 
+These five factors should be considered together to determine the seriousness of the 
+risk. If the potential harm is minor and not very likely to occur, the risk should not be 
+considered to be serious. A risk to public safety shall be considered as part of the scope 
+of the risk, while the likelihood that the harmful event may occur would be considered as 
+part of the probability of risk. 
+ 
+The seriousness of the risk is to be determined after accommodation and on the 
+assumption that suitable precautions have been taken to reduce the risk.  
+ 
+Example: An ambulance dispatcher with a hearing impairment manages 
+emergency calls over the telephone. Her capacity to do so safely and reliably  
+is properly assessed while using a prescribed hearing aid and a hearing aid-
+compatible telephone.  
+ 
+Consideration of other types of risk 
+When assessing the seriousness of the risk posed by the obligation to modify or waive a 
+health or safety requirement, consideration must be given to the other types of risks that 
+are assumed within an organization. For example, many jobs have risks that are 
+inherent to the nature of the work itself.  
+ 
+As well, job applicants may be denied employment on the basis of limitations related to 
+their disabilities. Yet these same or similar limitations may be developed by employees 
+ 
+Ontario Human Rights Commission        - 29- 
+
+Policy and guidelines on disability and the duty to accommodate 
+who have been on the job for several years, with little or no effect on their ability to 
+satisfactorily perform their duties and with no impact on their careers. 
+ 
+Everyday risk 
+Many sources of risk exist in the workplace, aside from those risks that may result from 
+accommodating an employee with a disability. All employees assume everyday risks 
+that may be inherent in a work site, or in working conditions, or which may be caused by 
+a co-worker's fatigue, temporary inattentiveness or stress. Employers have recognized 
+that not all employees are 100% productive every day, and many provide counselling 
+programs or other means of coping with personal problems, emotional difficulties or 
+other problems that may arise. Risks created by these situations are factored into the 
+level of safety or risk that we all accept in our lives every day. 
+ 
+A potential risk that is created by accommodation should be assessed in light of those 
+other, more common sources of risk in the workplace.  
+ 
+Risks in society as a whole 
+Risks that are present in comparable enterprises or in society as a whole should be 
+considered. While maximizing safety is always desirable, as a society we constantly 
+balance the degree of safety to be achieved against competing benefits. For example, 
+we balance the risk of injury in contact sports against the benefits of participating in 
+sports activities or because of the economic and entertainment benefits. We balance 
+the risks involved in permitting higher speed limits against the benefits of increasing the 
+efficient flow of traffic. We balance the risks involved in driving affordable cars against 
+the costs that would be involved in making them even safer. 
+ 
+5.4 Minimizing undue hardship 
+The following factors and strategies must be considered to avoid undue hardship and 
+meet the duty to accommodate under the Code:  
+ 
+5.4.1 Cost recovery 
+Persons responsible for accommodation should take steps to recover the costs of 
+accommodation. For example, by making reasonable changes to business practices  
+or obtaining grants or subsidies, the expense of making accommodation can be offset.  
+If the person responsible for accommodation believes that such measures will not be 
+effective in avoiding undue hardship, s/he will have to demonstrate that such steps to 
+recover costs are inadequate in the circumstances, are impossible or will not yield the 
+needed resources. 
+ 
+In other words, the person responsible for accommodation would be required to establish 
+that the costs that remain after steps are taken to recover costs will alter the essential 
+nature or substantially affect the viability of the enterprise.  
+ 
+Ontario Human Rights Commission        - 30- 
+
+Policy and guidelines on disability and the duty to accommodate 
+5.4.2 Distributing costs 
+Costs of accommodation must be distributed as widely as possible within the 
+organization responsible for accommodation so that no single department, employee, 
+customer or subsidiary is burdened with the cost of an accommodation. The appropriate 
+basis for evaluating the cost is based on the budget of the organization as a whole, not 
+the branch or unit in which the person with a disability works or to which the person has 
+made an application. In the case of government, the term "whole operation" should refer 
+to the programs and services offered or funded by the government. There may be 
+accommodations that require substantial expenditure, which, if implemented immediately, 
+would alter the essential nature of government programs or substantially affect their 
+viability in whole or in part. In such instances, it may be necessary to implement the 
+required accommodation incrementally.  
+ 
+5.4.3 Reducing financial burden 
+Organizations should consider spreading the financing of accommodation over time  
+by taking out loans, issuing shares or bonds, or other business methods of financing. 
+Amortization or depreciation is another means that an organization might be expected 
+to use to reduce the financial burden, where possible. 
+  
+5.4.4 Tax deductions 
+Tax deductions or other government benefits flowing from the accommodation will  
+also be taken into account as offsetting the cost of accommodation. 
+  
+5.4.5 Improvements to productivity, efficiency or effectiveness 
+The person responsible for accommodation is expected to consider whether 
+accommodation of the needs of a person with a disability may improve productivity, 
+efficiency or effectiveness, expand the business or improve the value of the business  
+or property.  
+ 
+Example: An accommodation that affects a significant number of people with 
+disabilities, such as persons requiring wheelchair access, could open up a new 
+market for a storekeeper or a service provider. By building a ramp, several more 
+persons will be able to access a store. 
+ 
+5.4.6 Second Injury and Enhancement Fund69 
+The effects of the Second Injury and Enhancement Fund of the Workplace Safety and 
+Insurance Board (the WSIB) must be considered. In the event of an injury to a worker, 
+where the injury is caused by the worker's disability, a claim may be made against this 
+fund even if the employer did not have knowledge of the employee's pre-existing 
+condition. The rates for the employer will not be increased as a result of making claims  
+on the fund.  
+ 
+Ontario Human Rights Commission        - 31- 
+
+Policy and guidelines on disability and the duty to accommodate 
+Approximately 90% of employees in the province of Ontario are under the protection  
+of the WSIB. Since the fund is available to most employers, there will be few instances 
+where increased liability insurance premiums for risk of injury to a person due to a  
+pre-existing condition or disability will be a factor in creating undue hardship. 
+ 
+5.4.7 Creative design solutions 
+Creative design solutions can often avoid expensive capital outlay. This may involve 
+specifically tailoring design features to the person's functional capabilities. Design 
+solutions must be most respectful of dignity. 
+ 
+5.4.8 A less expensive alternative 
+Where undue hardship is claimed, cost and risk estimates should be carefully examined to 
+ensure that they are not excessive in relation to the stated objective. If so, a determination 
+should be made as to whether a less expensive or lower-risk alternative exists that could 
+accomplish the accommodation (either as an interim measure to a phased-in solution or 
+permanently) while still fully respecting the dignity of the person with a disability. 
+ 
+5.4.9 Phasing in accommodation 
+Some accommodations will be very important but will be difficult to accomplish in a 
+short period of time.  
+ 
+Example: A small municipality may be able to show that to make its community 
+centre or transportation system accessible in a single year would cause undue 
+hardship. Or, a small employer may find it impossible to make its entrance and 
+washroom facilities accessible immediately without undue hardship.  
+ 
+In these situations, undue hardship should be avoided by phasing in the accessible 
+features gradually. 
+ 
+Some accommodations will benefit large numbers of persons with disabilities, yet the 
+cost may prevent them from being accomplished. One approach that may reduce the 
+hardship is to spread the cost over several years by phasing in the accommodation 
+gradually.  
+ 
+Example: A commuter railroad might be required to make a certain number  
+of stations accessible per year. 
+ 
+In many cases, while accommodation is being phased in over an extended period  
+of time, it may still be possible to provide interim accommodation for the individual.  
+If both short- and long-term accommodation can be accomplished without causing 
+undue hardship, then both should be considered simultaneously. 
+ 
+ 
+Ontario Human Rights Commission        - 32- 
+
+Policy and guidelines on disability and the duty to accommodate 
+5.4.10 Establishing a reserve fund 
+A second method of reducing the impact of the cost of an accommodation is to establish 
+a reserve fund into which the person responsible for accommodation makes payment 
+under specified conditions. One of the obvious conditions should be that the reserve 
+fund is to be used only to pay for accommodation costs in the future. Accommodations 
+could gradually be accomplished by expenditures out of the reserve fund or could 
+eventually be accomplished once enough funds had been set aside. 
+ 
+A reserve fund should not be considered as an alternat ive to a loan where the 
+accommodation could be made immediately and the cost paid back over time. Rather, 
+the reserve fund is to be used in circumstances where it would create undue hardship 
+for the person responsible for accommodation to obtain a loan and accomplish the 
+accommodation immediately. The reserve fund is one of several financing options to be 
+considered in assessing the feasibility of an accommodation. If a reserve fund is to be 
+established, provision should be made for considering future changes in circumstances. 
+ 
+Both phasing in and establishing a reserve fund are to be considered only after the 
+person responsible for accommodation has demonstrated that the most appropriate 
+accommodation could not be accomplished immediately. Phasing in is to be preferred  
+to establishing a reserve fund wherever possible.  
+ 
+5.4.11 Assessing the impact of remaining costs 
+After all costs, benefits deductions, outside sources of funding and other factors have 
+been considered, the next step is to determine whether the remaining (net) cost will 
+alter the essential nature or affect the viability of the organization responsible for making 
+the accommodation. 
+ 
+The person responsible for accommodation would need to show how it would be  
+altered or its viability affect ed. It will not be acceptable for the person responsible  
+for accommodation to merely state, without  evidence to suppor t the statement, that 
+the company operates on low margins and would go out of busi ness if required to 
+undertake the required accommodation.  
+ 
+Finally, 7if undue hardship can be shown, the person with a disability should be given 
+the option of providing or paying for that portion of the accommodation that results in 
+undue hardship. 
+ 
+5.4.12 Expert assessment 
+Where an undue hardship analysis anticipates assessing substantial capital or operating 
+expenditures or procedural changes (for example, in making physical alterations to an 
+apartment building, work site, vehicle or equipment or changing health and safety 
+requirements), it might be advisable for the person responsible for accommodation to 
+obtain a proposal and estimate from experts in barrier-free design and construction.  
+ 
+ 
+Ontario Human Rights Commission        - 33- 
+
+Policy and guidelines on disability and the duty to accommodate 
+6. Accommodation planning and implementation 
+The best defence against human rights claims is to be fully informed and aware of the 
+responsibilities and protections included in the Code. Organizations can achieve this by 
+developing disability accommodation policy and procedures as well as by conducting an 
+accessibility review. 
+ 
+6.1 Organizational policy 
+Organizations are responsible for dealing effectively, quickly and fairly with situations 
+involving claims of harassment or discrimination. Organizations can be held liable by a 
+court or tribunal if they or responsible staff members do not act to end discrimination or 
+harassment in their workplaces. 
+ 
+When an act of harassment or discrimination or a need for accommodation is ignored, 
+there are costs in terms of low morale, high stress, damaged professional reputations 
+and employee absences. 
+ 
+Developing internal anti-discrimination policies and procedures to resolve complaints as 
+part of a broad program to build a harassment-free and discrimination-free environment 
+offers many benefits. Dealing promptly with these issues saves time and money. Letting 
+people know the rules and defining unacceptable forms of behaviour makes it possible 
+to avoid costly and upsetting hours in the courts or before specialized tribunals. In that 
+way, strong policies and programs that prevent human rights complaints and help an 
+organization effectively meet its duty to accommodate make good business sense.  
+  
+The following should be part of any complete strategy to resolve human rights issues 
+that arise in the workplace: 
+ anti-harassment or ant i-discrimination policy 
+ disability accommodation policy 
+ complaint resolution procedure 
+ ongoing education programs. 
+ 
+These elements should be developed in co-operation with the union or other workplace 
+or organizational partners.   
+ 
+A disability accommodation policy should: 
+ outline rights and responsibilities 
+ require barrier analysis and prevention 
+ prepare and document accommodation plans 
+ monitor and evaluate implementation. 
+ 
+ 
+ 
+ 
+ 
+ 
+Ontario Human Rights Commission        - 34- 
+
+Policy and guidelines on disability and the duty to accommodate 
+6.2 Accessibility review  
+Organizations should consider developing accessibility review plans, undertaking 
+reviews and implementing the necessary changes to make facilities, procedures  
+and services accessible to employees, members, tenants, clients or customers  
+with disabilities. 
+ 
+Conducting the accessibility review will show to what extent an organization is 
+accessible to persons with disabilities and what needs to be done. 
+  
+An accessibility review plan should: 
+ state the purpose of the review pl an along with a rationale, context and  
+guidance for conducting a review 
+ acknowledge an organization ’s obligations under the Code to ensure  
+accessibility for employees, clients or customers with disabilities 
+ identify internal and external res ources that would provide guidance  
+for conducting the review 
+ summarize current internal  and external initiatives 
+ identify quality service measures 
+ outline the scope of the review and i dentify potential barriers as they may  
+relate to procedures and practices, facilities, services and communications 
+ outline timeframes and responsibiliti es around conducting an accessibility  
+review of the organization 
+ outline a communications plan for the a ccessibility review so that senior 
+management, staff, members, clients, etc. are aware and supportive of the 
+initiative and its purpose. 
+ 
+Results of the accessibility review should be documented in a “Summary of findings and 
+recommendations report” and submitted to senior management. Senior management 
+should make the results available to all concerned, along with a plan for undertaking 
+barrier removal. 
+ 
+Accessibility review plans and barrier removal are up-front ways that an organization 
+can address the needs of persons with disabilities. Developing and using a disability 
+accommodation policy will also help an organization meet its duty to accommodate the 
+individual needs of employees and customers with disabilities in accordance with the 
+Code. Such a policy will make it clear to both employees with disabilities, others who 
+require accommodation and managers responsible for providing accommodation what 
+company procedures are in place to assist persons with disabilities effectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ontario Human Rights Commission        - 35- 
+
+Policy and guidelines on disability and the duty to accommodate 
+ 
+Ontario Human Rights Commission        - 36- 
+7. For more information 
+Please visit www.ontario.ca/humanrights for more information on the human rights 
+system in Ontario. 
+ 
+The Human Rights System can also be accessed by telephone at: 
+Local: 416-326-9511 
+Toll Free: 1-800-387-9080 
+TTY (Local): 416-326 0603  
+TTY (Toll Free) 1-800-308-5561 
+ 
+To file a human rights claim, please contact the Human Rights Tribunal  
+of Ontario at: 
+Toll Free: 1-866-598-0322 
+TTY: 416-326-2027 or Toll Free: 1-866-607-1240 
+Website: www.hrto.ca 
+ 
+To talk about your rights or if you need legal help with a human rights claim, contact the 
+Human Rights Legal Support Centre at: 
+Toll Free: 1-866-625-5179 
+TTY: 416-314-6651 or Toll Free: 1-866-612-8627 
+Website: www.hrlsc.on.ca 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Policy and guidelines on disability and the duty to accommodate 
+ 
+Ontario Human Rights Commission        - 37- 
+                                                                                                                                             
+Endnotes 
+1 R.S.O.1990, c. H.19. 
+2 The terms "disability" and "person with a disability" are used throughout this document instead of 
+"handicap" or "handicapped person.” Although the term "handicap" is used in the Code, many people with 
+disabilities prefer the term "disability." 
+3 During consultations held in 1999 by the OHRC, stakeholders highlighted the particular issues facing 
+educational institutions and persons seeking access to them. Many of the principles set out in this Policy apply 
+to service sectors as well, but the Commission will be undertaking new Guidelines for the educational sector 
+to address these concerns. 
+4 In Granovsky v. Canada (Minister of Employment and Immigration), 2000 SCC 28 (18 May 2000), 
+online: Supreme Court of Canada www.lexum.umontreal.ca/csc-scc/en/index.html [hereinafter 
+“Granovsky”], the Supreme Court recognized that the primary focus in the disability analysis is on the 
+inappropriate legislative or administrative response (or lack thereof) of the State (at para. 39). The Court 
+states (at para. 33): 
+Section 15(1) ensures that governments may not, intentionally or through a failure of 
+appropriate accommodation, stigmatize the underlying physical or mental impairment, or 
+attribute functional limitations to the individual that the underlying physical or mental impairment 
+does not entail, or fail to recognize the added burdens which persons with disabilities may 
+encounter in achieving self-fulfillment in a world relentlessly oriented to the able-bodied. 
+[emphasis added.] 
+Although in Granovsky the focus was State action, similar principles apply to persons responsible for 
+accommodation under human rights law. 
+5 Eldridge v. British Columbia (Attorney General), [1997] 3 S.C.R. 624 at para. 78, online: 
+www.lexum.umontreal.ca/csc-scc/en/index.html [hereinafter “Eldridge”]. 
+6 British Columbia (Public Service Employee Relations Commission) v. BCGSEU, [1999] 3 S.C.R. 3  
+at para. 68 [hereinafter “Meiorin”]. 
+7 The term “person (or organization or company) responsible for accommodation” includes individuals, 
+partnerships, corporations, companies, unions, joint ventures and organizations. More than one “person” 
+may be responsible for accommodation, and where this term is used, it refers to all parties who are 
+obliged to take part in the accommodation. 
+8 Mental illness has been described as “significant clinical patterns of behaviour or emotions associated 
+with some level of distress, suffering (pain, death), or impairment in one or more areas of functioning 
+(school, work, social and family interactions). At the root of this impairment are symptoms of biological, 
+psychological or behavioural dysfunction, or a combination of these.” See Canadian Psychiatric 
+Association, Mental Illness and Work,(brochure), online:Canadian Psychiatric Association homepage 
+http://cpa.medical.org/MIAW/MIAW.asp at pg. 1 
+9 The Code’s definition of “disability” includes perceived disability. 
+10 Quebec (Commission des droits de la personne et des droits de la jeunesse) v. Montréal (City); 
+Quebec (Commission des droits de la personne et des droits de la jeunesse) v. Boisbriand (City), 2000 
+SCC 27 (3 May 2000), online: Supreme Court of Canada www.lexum.umontreal.ca/cscscc/ 
+en/index.html [hereinafter “Mercier”]. 
+11 Granovsky, supra note 4. 
+12 Mental Illness and Work, supra note 8. 
+13 Gibbs v. Battlefords and Dist. Co-operative Ltd. (1996), 27 C.H.R.R. D/87 (S.C.C.). 
+14 This was first articulated in Law v. Canada (Minister of Employment and Immigration), [1999]  
+1 S.C.R. 497, online: Supreme Court of Canada www.lexum.umontreal.ca/csc-scc/en/index.html 
+(date accessed: 4 August 2000) [hereinafter “Law”]. The approach has been affirmed in several 
+subsequent cases, most notably two cases dealing with discrimination on the basis of disability: Mercier, 
+supra note 10 and Granovsky, supra note 4. 
+15 The facts of Granovsky, supra note 4 illustrate an exception to this general proposition. Where a 
+scheme targets a particular group (for example, those who are less fortunate than the complainant), it is 
+unlikely to be considered discriminatory to exclude more advantaged groups. 
+16 Subsection 25(1) of the Code 
+17 Subsection 25(4) of the Code. 
+18 Conversely, in O.N.A. v. Orillia Soldiers Memorial Hospital (1999), 169 D.L.R. (4th) 489, leave to appeal 
+
+Policy and guidelines on disability and the duty to accommodate 
+ 
+Ontario Human Rights Commission        - 38- 
+                                                                                                                                             
+to S.C.C. refused [1999] S.C.C.A. No. 118, online: QL (SCCA) [hereinafter “Orillia”], nurses on unpaid 
+leave of absence due to disability did not accumulate service after periods set out in the collective 
+agreement, and the employer was not required to contribute premiums to employee benefit plans after 
+the employees had received long-term disability payments for a specified time. The Ontario Court of 
+Appeal held that there was no contravention of the Code because these nurses were not treated 
+differently from those in the appropriate comparator group, namely employees who were not working for 
+other reasons. 
+19 The Supreme Court’s recent decisions in Law, supra note 14 and Granovsky, supra note 4 have 
+confirmed that the concept of human dignity is central to discrimination analysis. These cases indicate 
+that if an accommodation marginalizes, stigmatizes or demeans the person with a disability’s sense of 
+worth or dignity as a human being, it will not be appropriate. In commenting on the Eaton case, the Court 
+said in Granovsky, supra note 4 at para. 74: 
+…Emily’s claim might have succeeded if …the Court had been persuaded that the Board’s 
+response to the challenge posed by Emily’s placement [the accommodation] had itself violated 
+Emily’s dignity as a human being equally deserving of consideration, or placed 
+discriminatory obstacles in the way of her self-fulfillment. [Emphasis added.] 
+20 Law, supra note 14 at para. 53. 
+21 Entrop v. Imperial Oil Limited (21 July 2000), Docket C29762 at para. 77-81 (Ont. C.A.), online:  
+Court of Appeal for Ontario www.ontariocourts.on.ca [hereinafter “Entrop”]. 
+22 United Nations, Declaration of the Rights of Disabled Persons, proclaimed by General Assembly 
+resolution 3447 (XXX) of 9 December 1975. 
+23 Eaton v. Brant County Board of Education, [1997] 1 S.C.R. 241 [hereinafter “Eaton”]. 
+The Supreme Court stated that “integration should be recognized as the norm of general application 
+because of the benefits it generally provides” (at para. 69). However, the Court found that in Emily Eaton’s 
+circumstances, segregated accommodation was in her best interests. The Court was of the view that this 
+was one of those unusual cases where segregation was a more appropriate accommodation. 
+24 Eaton, ibid at para. 67. 
+25 Meiorin, supra note 6 at para. 68. 
+26 Eaton, supra note 23 at para. 66-7. The unique nature of disability has been recognized by the 
+Supreme Court of Canada. 
+27 Ibid, at para. 69. 
+28 Supra, note 21. 
+29 Meiorin, supra note 6, and British Columbia (Superintendent of Motor Vehicles) v. British Columbia 
+(Council of Human Rights), [1999] 3 S.C.R. 868 [hereinafter “Grismer”]. 
+30 Entrop v. Imperial Oil Limited (21 July 2000), Docket C29762 at para. 77-81 (Ont. C.A.), online: Court 
+of Appeal for Ontario www.ontariocourts.on.ca [hereinafter “Entrop”]. 
+31 Meiorin, supra note 6. 
+32 Grismer, supra note 29 at para. 20. 
+33 Ibid, at para. 66. 
+34 Meiorin, supra note 6 at para. 65. 
+35 Quesnel v. London Educational Health Centre, (1995) 28 C.H.R.R. D/474 at para. 16 (Ont. Bd. of Inq.) 
+[hereinafter “Quesnel”]. 
+36 Cameron v. Nel-gor Nursing Home (1984), 5 C.H.R.R. D/2170 at D/2192 (Ont. Bd. of Inq.) [dictionary 
+citations omitted]. 
+37 Ibid. See also Crabtree v. 671632 Ontario Ltd. (c.o.b. Econoprint (Stoney Creek)), [1996] O.H.R.B.I.D. 
+No. 37 (Ont. Bd. of Inq.), online: QL (HRBD). 
+38 Robert L. Burgdorf, Disability Discrimination in Employment Law (Washington D.C.: Bureau of National 
+Affairs, 1995) at 241. 
+39 See M. K. Joachim, "The Duty To Accommodate Disabled Workers and the Provision of Alternative 
+Work: An Unexplained Assumption” (2000) 7 Charter and Human Rights Litigation 407 for an excellent 
+review of labour and human rights case law. Although Joachim locates the right to alternative 
+employment in section 17(1), it can also be viewed as being located in the section 17(2) and the duty to 
+accommodate. Whichever is the correct reasoning, employees should have some access to alternative 
+employment. 
+40 Hamilton Civic Hospitals and CUPE, Local 794 (1994), 44 L.A.C. (4th) 31 [Ont. Arb. Award.] 
+41 In Chamberlin v. 599273 Ontario Ltd cob Stirling Honda (1989), 11 C.H.R.R. D/110 (Ont. Bd. of Inq.), 
+
+Policy and guidelines on disability and the duty to accommodate 
+ 
+Ontario Human Rights Commission        - 39- 
+                                                                                                                                             
+the Board of Inquiry (Tribunal) found that the employer should have given the complainant the opportunity  
+to prove he could still perform his old job. 
+42 An employer may have to move an employee to a job more consistent with the employee’s health 
+status; Re Calgary District Hospital Group and U.N.A. Loc. 121-R (1994), 41 L.A.C. (4th) 319 (Alta. Lab. 
+Rel. Bd.). The employer may have to look for work comparable to the original job rather than giving the 
+employee an inferior position; Re York County Hospital and Ontario Nurses’ Association (1992), 26 L.A.C. 
+(4th) 384 (Ont. Lab. Rel. Bd.). The employer may even need to create a new job by joining together all the 
+light duties and then reassigning the heavy duties to other employees; Re Greater Niagara Hospital and 
+Ontario Nurses Association (1995), 50 L.A.C. (4th) 34 (Ont. Lab. Rel. Bd.). In one decision, the 
+employer’s duty to accommodate included not only the duties and requirements associated with the 
+current job but also the duties and requirements associated with a bundle of tasks within the ability  
+of an employee with a disability; Re Mount Sinai Hospital and the O.N.A. (1996), 54 L.A.C. (4th) 261  
+(Ont. Lab. Rel. Bd.). 
+43 Workplace Safety and Insurance Act, S.O. 1997 c. 16 Sch. A, s. 40 and 41 [hereinafter “WSIA”]. 
+44 There are also rights and obligations pertaining to return to work set out in the WSIA that may exist 
+concurrently with human rights protections. 
+45 See Section 17 of the Code. 
+46 In some cases, accommodation may require the modification of job standards. See the section entitled 
+“Essential duties and the current job.” 
+47 Meiorin, supra note 6 at para. 65-66. 
+48 Human Rights Digest, vol. 1 no. 2 (February/March 2000) citing Conte v. Rogers Cablesystems Ltd. 
+(1999), C.H.R.R. Doc. 99-227 (Can. Human Rights Tribunal), Mazuelos v. Clark (2000) C.H.R.R. Doc.  
+00-011 (B.C. Human Rights Tribunal) and Gordy v. Oak Bay Marine Management Ltd. (2000) C.H.R.R.  
+Doc.00-040 (B.C. Human Rights Tribunal). 
+49 The Supreme Court of Canada’s decision in Central Okanagan School District No. 23 v. Renaud, 
+[1992] 2 S.C.R. 970 [hereinafter “Renaud ”] sets out the obligations of unions. 
+50 Ibid at 988. 
+51 For further information about drug and alcohol related disabilities, see Ontario Human Rights 
+Commission, Policy on Drug and Alcohol Testing (1996, revised September 27, 2000), Online: Ontario 
+Human Rights Commission website: www.ohrc.on.ca. 
+52 A. Cantor, “The Costs and Benefits of Accommodating Employees with Disabilities” (Toronto: 1996), 
+online: Cantor + Associates Workplace Accommodation Consultants: www.interlog.com/~acantor/. 
+53 There are a number of cases that confirm this approach to the interpretation of human rights statutes. 
+In Mercier, supra note 10 the Supreme Court summarized these cases and outlined the 
+relevant principles of human rights interpretation. 
+54 Section 44 of the Code. 
+55 Renaud, supra note 49. 
+56 This is not an exclusive list. During the consultations, the issue of whether academic freedom may be  
+a component of undue hardship was raised. Academic freedom is unrelated to the duty to accommodate 
+and should not be a defence to accommodating persons with disabilities. For example, a student may 
+require a more accessible classroom, or need more time in an examination because of a disability-related 
+need. These are legitimate requests that do not diminish academic freedom. If an accommodation need  
+places such a financial burden on the institution that it would amount to undue hardship by reason of cost 
+or because it would substantially change the nature of the enterprise, or its viability, it would then meet 
+the undue hardship standard. For more information, please see the OHRC’s Guidelines on Accessible 
+Education at www.ohrc.on.ca. 
+57 The issue of customer, third party and employee preference is discussed in J. Keene, Human Rights  
+in Ontario, 2nd ed. (Toronto: Carswell, 1992) at 204-5. 
+58 Renaud, supra note 49. 
+59 Meirion, supra note 6 at para. 68. Those setting standards and rules must be aware of the differences 
+between individuals and groups of individuals. Standards and rules should not just be based on the 
+‘mainstream’ e.g. employees who do not have disabilities. 
+60 Grismer, supra note 29 at para. 42. 
+61 Meiorin, supra note 6 at para. 78-79 and Grismer, supra note 29 at para. 41. Cases since Meiorin and 
+Grismer have also applied this stringent requirement for objective evidence; see, for example, Miele v. 
+Famous Players Inc . (2000), 37 C.H.R.R. D/1 (B.C.H.R.T.). 
+
+Policy and guidelines on disability and the duty to accommodate 
+ 
+Ontario Human Rights Commission        - 40- 
+                                                                                                                                             
+62 Grismer, supra note 32 at para. 41 
+63 Section 25(1) of the Code. 
+64 For further discussion on minimizing costs, please refer to section 4.4 “Minimizing Undue Hardship.” 
+65 Second Injury and Enhancement Fund (S.I.E.F), Policy Document (08-01-05) in the Pre-Bill 99 
+Operational Policy Manual of the Workplace Safety and Insurance Board (W.S.I.B). 
+66 The Access Fund is an example of an outside source of funding. It helps community organizations 
+develop barrier-free facilities, so persons with disabilities can be active volunteers and participate in 
+potential employment opportunities. The Access Fund is part of Ontario's Equal Opportunity and Disability 
+Partnerships and designed in partnership with the Ontario Trillium Foundation, which delivers the 
+program. 
+67 See Eldridge, supra note 5. 
+68 R.S.O. 1990 c. 0-1. The OHSA regulations have equivalency clauses that allow for the use of 
+alternative measures to those specified in its regulations, provided the alternative measures afford equal 
+or better protection to workers. 
+69 Supra, note 65. 

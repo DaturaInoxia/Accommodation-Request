@@ -26,6 +26,12 @@ Authoritative primary sources for the accommodation case. Downloaded 2026-09-29.
 - **s. 11** — constructive discrimination.
 - **s. 17** — disability: essential duties and the undue-hardship standard for accommodation.
 
+## Extracted text copies
+
+Plain-text `.txt` copies of the three OHRC policies are also in this folder
+(same base filename). They were machine-extracted with `pypdf` for
+searching/citing — the official PDFs remain the authoritative versions.
+
 ## Note
 
 The scanned OPS document `Cabinet OPS Return to 5 Days Per Week In-Office Standard.pdf`
