@@ -21,3 +21,14 @@
 
 - **Booking / payment portal:** https://cbtassociates.janeapp.com/account#upcoming (Jane App)
 - **Note:** Provider name, address, phone and email not recorded yet.
+
+## Dr. K. Sotoudeh — Family Physician (new)
+
+- **Practice:** Bradford Health Care Centre
+- **Credentials:** MD, LMCC, Family Physician CCFP
+- **Address:** 26 Holland Street East, PO Box 535, Bradford, ON L3Z 2B1
+- **Phone:** 905-755-2025
+- **Fax:** 905-775-2026
+- **Email:** bradfordmedical@yahoo.com
+- **Website:** https://bradfordmedical.ca/
+- **Role:** New family doctor — the physician sign-off layer for the OPS/OPSEU accommodation forms.

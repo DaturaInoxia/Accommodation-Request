@@ -13,16 +13,17 @@ Work down this list in priority order — start at #1.
 ## Next (1–2 weeks) — secure the formal sign-off
 
 - [ ] **4. Book the Rocket Doctor appointment** and use the prep packet (`../Accommodation – Medical Documentation/RocketDoctor/01 – Clinician Briefing Sheet … 05 – Clinician Evidence Packet`, plus `Prep/PrepSheet.docx` and `Prep/Prepare_Notes.docx`) to get an NP/physician to complete the employer accommodation forms.
-- [ ] **5. Resolve the Dr. Soile path** — she was unwilling (`05_Soile_Unwilling.docx`). Either proceed with the new clinician (`06_NewClinician.docx`) or decide whether to file the complaint (`07_Complaint_Draft.docx`). This is the current bottleneck.
+- [ ] **5. Engage Dr. K. Sotoudeh (new family doctor)** — Bradford Health Care Centre, 905-755-2025 (see `../Contacts.md`). Ask whether they will complete the OPS/OPSEU accommodation forms and provide the physician sign-off; bring the clinician brief (`01 – Clinician Briefing Sheet (Ken Wood).docx`).
+- [ ] **6. Resolve the Dr. Soile path** — she was unwilling (`05_Soile_Unwilling.docx`). Either proceed with the new clinician (`06_NewClinician.docx`) or decide whether to file the complaint (`07_Complaint_Draft.docx`).
 
 ## Then — build and submit the HR package
 
-- [ ] **6. Finalize the HR request** — `07 – HR Accommodation Request (Ken Wood).docx`, incorporating the WFH/AWA timeline from `WorkFromHome(AWA) Timeline Summary.docx`.
-- [ ] **7. Assemble the evidence packet** — `05 – Comprehensive Accommodation Evidence Packet (Ken Wood).docx`, pulling together the psychologist letter (`Ken W Letter June 10 2026 PF.docx`), the doctor's note (`Dec1_Recieved_MedicalNote1.pdf`), and the `OHRC_functionalLimitations_Mapping.docx`.
-- [ ] **8. Review the package with the OPSEU rep** before submitting to HR.
+- [ ] **7. Finalize the HR request** — `07 – HR Accommodation Request (Ken Wood).docx`, incorporating the WFH/AWA timeline from `WorkFromHome(AWA) Timeline Summary.docx`.
+- [ ] **8. Assemble the evidence packet** — `05 – Comprehensive Accommodation Evidence Packet (Ken Wood).docx`, pulling together the psychologist letter (`Ken W Letter June 10 2026 PF.docx`), the doctor's note (`Dec1_Recieved_MedicalNote1.pdf`), and the `OHRC_functionalLimitations_Mapping.docx`.
+- [ ] **9. Review the package with the OPSEU rep** before submitting to HR.
 
 ## Ongoing
 
-- [ ] **9. Keep the psychologist journal and coping-strategy notes current** — functional-limitations evidence base.
-- [ ] **10. File the OPS return-to-office standard** (`Cabinet OPS Return to 5 Days Per Week In-Office Standard.pdf`) and the HR mandate notice with the evidence, as context for the barrier.
-- [ ] **11. Claim the psychologist appointments** — submit the psychologist appointment costs through your benefits/health spending account. Check the claim deadline (some plans require claims within a set window or by year-end).
+- [ ] **10. Keep the psychologist journal and coping-strategy notes current** — functional-limitations evidence base.
+- [ ] **11. File the OPS return-to-office standard** (`Cabinet OPS Return to 5 Days Per Week In-Office Standard.pdf`) and the HR mandate notice with the evidence, as context for the barrier.
+- [ ] **12. Claim the psychologist appointments** — submit the psychologist appointment costs through your benefits/health spending account. Check the claim deadline (some plans require claims within a set window or by year-end).
