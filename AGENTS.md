@@ -88,6 +88,13 @@ Canonical prompt patterns live in `Prompts/MaterPrompt.md` (self),
 `Prompts/MaterPrompt_Practiioner.md` (OPSEU-specific), and
 `Prompts/FindClinicial.md` (clinician search).
 
+## Current status & next steps
+
+- **Live status + key decisions:** `CURRENT_STATUS.md` (read first).
+- **Prioritized actions:** `Accommodation – Personal Strategy/ACTION ITEMS.md`.
+- **Psychologist meeting questions:** `Accommodation – Medical Documentation/Psychologist/PeterMeeting_Agenda.txt`.
+- **Physician note template:** `Accommodation – Medical Documentation/DoctorNote_Template.txt`.
+
 ## Git conventions
 
 - Branch: `main` (tracks `origin/main`).
