@@ -1,11 +1,12 @@
 # Action Items
 
-Last updated: 2026-09-29 — **SITUATION CHANGED: the 5-day RTO is now being enforced and all AWAs were denied (today). Rocket Doctor is out.**
+Last updated: 2026-10-10 — **RTO enforced; AWAs denied. Peter is finalizing the report and setting a meeting for next week.**
 
-Work down this list in priority order — start at #1.
+Work down this list in priority order — start at the top.
 
 ## Immediate (today / this week)
 
+- [ ] **⚠️ DO FIRST — Complete the PCL-5 (Peter's request)** — Peter asked Ken to complete the PCL-5 (with LEC + Criterion A), thinking about accidents/incidents witnessed while commuting, to rule out PTSD. Forms: `../References/PTSD Assessment Forms/`. Return it to Peter this week so he can finalize the report and set the meeting.
 - [ ] **1. Notify the OPSEU rep** — RTO enforcement has started and your AWA was denied. Ask about interim protection while your accommodation request is pending, and get the formal process started.
 - [ ] **2. Submit the HR accommodation request now** — `07 – HR Accommodation Request (Ken Wood).docx` (your functional-limitations framing — no diagnosis). ⚠️ See 2a before attaching Peter's report.
 - [ ] **2a. Reconcile the accommodation target** — Peter's report (`Ken W Letter June 10 2026 PF.docx`) names DSM diagnoses (Alcohol Use Disorder, Social Anxiety Disorder, Specific Phobia – driving) and recommends **no more than 2–3 days/week in office**, NOT full remote. Decide with the lawyer/union what to actually request, and whether to (a) attach the report as-is (discloses diagnosis), (b) get a functional-limitations-only summary, or (c) have Dr. Sotoudeh document the target in the note.
@@ -15,7 +16,7 @@ Work down this list in priority order — start at #1.
 ## Sign-off (critical path)
 
 - [ ] **5. Engage Dr. K. Sotoudeh (new family doctor)** — now the PRIMARY sign-off route. ✅ Verbal agreement: he will write the doctor's note using Peter's report as evidence.
-- [ ] **5a. Meet Peter (Tuesday, Oct 6 — see `../Accommodation – Medical Documentation/Psychologist/PeterMeeting_Agenda.txt`)** — priorities: (★) close the recommendation gap (2–3 days in office vs. remote work) and (★) get a flexible/episodic framing; plus send report directly to Dr. Sotoudeh, align report to the OHRC chain, clarify temporary vs. permanent, optionally request a diagnosis-free summary, and document the treatment plan.
+- [ ] **5a. Meet Peter (next week, to discuss the finalized report — see `../Accommodation – Medical Documentation/Psychologist/PeterMeeting_Agenda.txt`)** — priorities: (★) close the recommendation gap (2–3 days in office vs. remote work) and (★) get a flexible/episodic framing; plus send report directly to Dr. Sotoudeh, align report to the OHRC chain, clarify temporary vs. permanent, optionally request a diagnosis-free summary, and document the treatment plan.
 - [x] ~~Rocket Doctor~~ — **CANCELLED: that path did not work.**
 - [ ] **6. Dr. Soile complaint (optional)** — `07_Complaint_Draft.docx` (CPSO route). Decide whether to file; keep as documentation/leverage.
 

@@ -1,6 +1,6 @@
 # Current Status & Key Decisions
 
-Last updated: 2026-10-06
+Last updated: 2026-10-10
 
 Read this first when returning to the project, together with `AGENTS.md`.
 
@@ -8,7 +8,8 @@ Read this first when returning to the project, together with `AGENTS.md`.
 
 - The 5-day return-to-office mandate is being **ENFORCED** and **all AWAs were denied** (as of 2026-09-29).
 - **Rocket Doctor path is DEAD** (did not work).
-- Psychologist report (Peter Farvolden, dated June 10, 2026): **received but still a DRAFT** — being finalized; meeting with Peter Tuesday Oct 6, 2026.
+- Psychologist report (Peter Farvolden, dated June 10, 2026): **still a DRAFT** — Peter is finalizing it **this week** and will send it, then set a meeting **next week** to discuss.
+- Peter asked Ken to complete the **PCL-5** (with LEC + Criterion A), considering accidents/incidents witnessed while commuting, to **rule out PTSD** before finalizing. Forms in `References/PTSD Assessment Forms/`.
 - New family doctor **Dr. K. Sotoudeh** (Bradford Health Care Centre): verbally agreed to write the doctor's note **using Peter's report as evidence** — but wants the report sent to him **directly by Peter**, not by Ken.
 - Former doctor (Dr. Adeseye Soile) refused to document functional limitations; a CPSO complaint draft exists (`07_Complaint_Draft.docx`).
 
