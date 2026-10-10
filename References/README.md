@@ -18,6 +18,14 @@ Authoritative primary sources for the accommodation case. Downloaded 2026-09-29.
 4. **OHRC - Policy and guidelines on disability and the duty to accommodate.pdf**
    - Source: https://www.ohrc.on.ca/en/policy-and-guidelines-disability-and-duty-accommodate
 
+## PTSD assessment forms (`PTSD Assessment Forms/`)
+
+- `PCL-5 Standard Form (VA National Center for PTSD).pdf` — PTSD Checklist for DSM-5 (self-report), U.S. Dept. of Veterans Affairs.
+- `PCL-5 with LEC and Criterion A (Stanford).pdf` — PCL-5 with the Life Events Checklist and Criterion A.
+
+Context: Peter Farvolden's report notes "Rule Out Posttraumatic Stress Disorder"
+(driving-related trauma history). These are the standard instruments for that assessment.
+
 ## Key Code provisions to cite (verify exact text in the .doc)
 
 - **s. 1** — right to equal treatment in services, goods and facilities, without discrimination (incl. disability).
