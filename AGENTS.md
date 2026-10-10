@@ -94,6 +94,7 @@ Canonical prompt patterns live in `Prompts/MaterPrompt.md` (self),
 - **Prioritized actions:** `Accommodation – Personal Strategy/ACTION ITEMS.md`.
 - **Psychologist meeting questions:** `Accommodation – Medical Documentation/Psychologist/PeterMeeting_Agenda.txt`.
 - **Physician note template:** `Accommodation – Medical Documentation/DoctorNote_Template.txt`.
+- **Persistence:** keep `CURRENT_STATUS.md`, `ACTION ITEMS.md`, and `Contacts.md` updated as facts change, so any future agent or host has full context.
 
 ## Git conventions
 
