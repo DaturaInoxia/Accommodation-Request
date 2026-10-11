@@ -6,6 +6,9 @@ this week and set up a meeting next week to discuss it. He asked Ken to
 complete the PCL-5 (with LEC + Criterion A) first — considering accidents /
 incidents witnessed while commuting — to rule out PTSD.
 
+See also: `Report_to_Documents_Mapping.md` — maps Peter's report to Ken's
+documents and lists the six gaps to raise at the meeting.
+
 OHRC chain the finalized report should map to
 (the substance is already in the report — it just needs to be worded this way):
   1. disability exists
