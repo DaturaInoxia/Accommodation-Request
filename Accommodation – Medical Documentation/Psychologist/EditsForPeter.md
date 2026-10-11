@@ -69,8 +69,57 @@ replaced by the functional wording above?
 
 ---
 
+## 6. ★ Include — a suggested physician's note (for the report)
+
+Peter should include the following as a note the treating physician
+(Dr. Sotoudeh) can adapt and sign directly. It mirrors the wording above so
+the report and the note stay consistent.
+
+---
+
+[CLINIC LETTERHEAD]
+
+Date: ____________________
+
+To Whom It May Concern (Attention: Human Resources):
+
+Re: Ken Wood — DOB: ____________________
+
+I am the treating physician for Mr. Ken Wood.
+
+I have reviewed the psychological assessment prepared by [Peter Farvolden,
+Ph.D., C.Psych., dated June 10, 2026], and this note is based on that
+assessment and on my own care of the patient.
+
+Mr. Wood has a diagnosed medical condition that constitutes a disability
+within the meaning of the Ontario Human Rights Code.
+
+Mr. Wood experiences ongoing functional limitations that are triggered and
+worsened by commuting to and from the workplace:
+- Commuting is a trigger that increases the risk of relapse of his condition.
+- Driving causes significant anticipatory anxiety and a heightened stress
+  response that persists after arrival and for one to two days afterward.
+- Sleep is disrupted on nights before in-office attendance, reducing his
+  ability to maintain stability.
+- Commuting-related fatigue reduces concentration, consistency, and the
+  ability to maintain the routines that support his health.
+- These limitations fluctuate; their impact is greater during periods of
+  elevated symptoms.
+
+Recommended accommodation:
+Mr. Wood requires a workplace accommodation permitting him to work from home
+as his functional limitations require, including full-time remote work during
+periods of elevated symptoms. In-office attendance should be limited to the
+extent necessary to avoid triggering or worsening these limitations.
+
+Duration: Ongoing, with reassessment after 12 months.
+
+Signed: ______________________________   Date: ______________
+[Physician name, credentials, CPSO #]
+
 ## Quick checklist for the meeting
 
+- [ ] Include the suggested physician's note in the report (§6)
 - [ ] Replace the 2–3 day wording with functional wording (§1)
 - [ ] Add episodic/fluctuation statement (§2)
 - [ ] Add the WFH contrast statement (§3)

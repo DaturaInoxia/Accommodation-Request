@@ -1,52 +1,61 @@
-Physician's Note Template — Workplace Accommodation (OHRC)
-For Dr. K. Sotoudeh — Bradford Health Care Centre
+Physician's Note — Workplace Accommodation (OHRC)
+Ready-to-sign version for Dr. K. Sotoudeh — Bradford Health Care Centre.
 
 What this note must do (so the doctor doesn't need to know OHRC):
   1. Confirm a disability exists.
   2. State the functional limitations (commuting = trigger / relapse risk).
-  3. State the accommodation needed (remote work / reduced in-office, as required).
-  4. State duration (permanent or reviewable).
-Avoid: treatment details, medication, history — HR only needs functional information.
+  3. State the accommodation needed (remote work, as functional limitations require).
+  4. State duration (ongoing, with reassessment).
+Avoid: treatment details, medication, history, diagnosis — HR only needs
+functional information. This is the OHRC chain: disability → limitations →
+accommodation → duration. (The employer may generally only ask: does a
+disability exist; what are the limitations; can essential duties be performed
+with/without accommodation; what accommodation is needed — and must pay for
+required medical documentation.)
+
+Peter's report will recommend this note; Dr. Sotoudeh adapts and signs it.
 
 ----------------------------------------------------------------
 [CLINIC LETTERHEAD]
 
 Date: ____________________
 
-To Whom It May Concern:
+To Whom It May Concern (Attention: Human Resources):
 
-Re: [Patient name] — DOB: ______________
+Re: Ken Wood — DOB: ____________________
 
-I am the treating physician for [name].
+I am the treating physician for Mr. Ken Wood.
 
-[OPTIONAL — only if the doctor wants to signal he relied on a specialist:]
-I have reviewed the specialist psychological assessment and base my
-recommendation on it.
+I have reviewed the psychological assessment prepared by Peter Farvolden,
+Ph.D., C.Psych. (dated June 10, 2026), and this note is based on that
+assessment and on my own care of the patient.
 
-[Name] has a diagnosed medical condition that constitutes a disability.
-
-Functional limitations:
-- Commuting to and from the workplace is a trigger that worsens [name]'s
-  condition and increases the risk of relapse of that condition.
+Mr. Wood has a diagnosed medical condition that constitutes a disability
+within the meaning of the Ontario Human Rights Code.
+Mr. Wood experiences ongoing functional limitations that are triggered and
+worsened by commuting to and from the workplace:
+- Commuting is a trigger that increases the risk of relapse of his condition.
 - Driving causes significant anticipatory anxiety and a heightened stress
-  response that persists after arrival.
-- Sleep is disrupted on nights before in-office attendance, reducing the
+  response that persists after arrival and for one to two days afterward.
+- Sleep is disrupted on nights before in-office attendance, reducing his
   ability to maintain stability.
 - Commuting-related fatigue reduces concentration, consistency, and the
-  ability to maintain the routines that support [name]'s health.
+  ability to maintain the routines that support his health.
+- These limitations fluctuate; their that support [name]'s health.
 - These limitations fluctuate; the impact is greater during periods of
   elevated symptoms.
 
 Recommended accommodation:
-[Name] requires a workplace accommodation allowing them to work from home as
-their functional limitations require, including full-time remote work during
-periods when commuting would worsen their condition.
+Mr. Wood requires a workplace accommodation permitting him to work from home
+as his functional limitations require, including full-time remote work during
+periods of elevated symptoms. In-office attendance should be limited to the
+extent necessary to avoid triggering or worsening these limitations.
 
-[Alternative wording, if needed:]
-[Name] should be restricted to working in the office no more than ___ days
-per week.
+[Alternative wording, only if a fixed limit is required:]
+Mr. Wood should be restricted to working in the office no more than __ days
+per week, with the balance of his work performed remotely.
 
-Duration:  [ ] Permanent     [ ] For ____ months, then reassessed
+Duration: Ongoing, with reassessment after 12 months.
 
 Please contact my office if further information is required.
 
