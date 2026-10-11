@@ -6,6 +6,16 @@ report. Peter should adjust to his clinical voice and include only what he can
 professionally endorse. ID codes map to
 `Functional_Limitations_Full_Mapping.md`.
 
+## 0. Framing — cover all confirmed conditions, not only alcohol
+
+Peter has acknowledged: Alcohol Use Disorder (in sustained remission), Social
+Anxiety Disorder, and a specific phobia of driving, with PTSD to be ruled out
+(pending the PCL-5). The wording below must reflect the COMBINED functional
+impact of these conditions — not relapse prevention alone. The accommodation
+rests on the same limitation either way: the commute is the trigger. The
+alcohol/relapse wording stays as the foundation; the anxiety and trauma-related
+limitations are added alongside it (bracketed in §6 for Peter to confirm).
+
 ---
 
 ## 1. ★ The recommendation — reword (most important)
@@ -91,12 +101,13 @@ I have reviewed the psychological assessment prepared by [Peter Farvolden,
 Ph.D., C.Psych., dated June 10, 2026], and this note is based on that
 assessment and on my own care of the patient.
 
-Mr. Wood has a diagnosed medical condition that constitutes a disability
-within the meaning of the Ontario Human Rights Code.
+Mr. Wood has diagnosed medical conditions that constitute a disability within
+the meaning of the Ontario Human Rights Code.
 
 Mr. Wood experiences ongoing functional limitations that are triggered and
 worsened by commuting to and from the workplace:
-- Commuting is a trigger that increases the risk of relapse of his condition.
+- Commuting is a trigger that worsens his conditions and increases the risk
+  of relapse.
 - Driving causes significant anticipatory anxiety and a heightened stress
   response that persists after arrival and for one to two days afterward.
 - Sleep is disrupted on nights before in-office attendance, reducing his
@@ -105,6 +116,12 @@ worsened by commuting to and from the workplace:
   ability to maintain the routines that support his health.
 - These limitations fluctuate; their impact is greater during periods of
   elevated symptoms.
+
+[Additional limitations — for the psychologist to confirm and add:]
+- Anticipatory anxiety and avoidance related to driving and the commute.
+- Heightened anxiety and a startle response to traffic events that evoke
+  past traumatic incidents.
+- Intrusive, trauma-related thoughts and hypervigilance while driving.
 
 Recommended accommodation:
 Mr. Wood requires a workplace accommodation permitting him to work from home

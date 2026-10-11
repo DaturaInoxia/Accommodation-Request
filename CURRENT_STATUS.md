@@ -28,6 +28,12 @@ Read this first when returning to the project, together with `AGENTS.md`.
 2. **Doctor's note:** self-contained (disability → functional limitations → accommodation → duration); report reference is OPTIONAL and generic; diagnosis optional.
 3. **Functional limitations for the note:** see `Accommodation – Medical Documentation/DoctorNote_Template.txt`.
 4. **Next actions:** notify OPSEU rep → submit HR request → book Dr. Sotoudeh → re-engage lawyer.
+5. **Multi-condition framing:** the report and note must cover the *combined*
+   functional impact of all confirmed conditions — social anxiety, driving
+   phobia, possible PTSD (r/o) — **not** alcohol/relapse alone. The note names
+   no diagnosis ("diagnosed medical conditions") and leaves bracketed room for
+   Peter to add the anxiety/trauma limitations. Anchor stays the same: the
+   commute is the trigger.
 
 ## Functional limitations — report verification
 
