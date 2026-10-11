@@ -15,6 +15,10 @@ just a question) for Peter to fold in.
 See also: `Report_to_Documents_Mapping.md` — maps Peter's report to Ken's
 documents and lists the six gaps to raise at the meeting.
 
+Bring with you: `EditsForPeter.md` — one-page proposed report wording
+(reworded recommendation, episodic statement, WFH contrast, and the missing
+limitation paragraphs) for Peter to incorporate.
+
 OHRC chain the finalized report should map to
 (the substance is already in the report — it just needs to be worded this way):
   1. disability exists
