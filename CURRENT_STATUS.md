@@ -11,6 +11,7 @@ Read this first when returning to the project, together with `AGENTS.md`.
 - Psychologist report (Peter Farvolden, dated June 10, 2026): **still a DRAFT** — Peter is finalizing it **this week** and will send it, then set a meeting **next week** to discuss.
 - Peter asked Ken to complete the **PCL-5** (with LEC + Criterion A), considering accidents/incidents witnessed while commuting, to **rule out PTSD** before finalizing. Forms in `References/PTSD Assessment Forms/`.
 - New family doctor **Dr. K. Sotoudeh** (Bradford Health Care Centre): verbally agreed to write the doctor's note **using Peter's report as evidence** — but wants the report sent to him **directly by Peter**, not by Ken.
+- **Peter is fully on-side:** he has told Ken he will collaborate on shaping the report — Ken may **edit / annotate the draft** and Peter will **incorporate the changes (within reason)**, and **additional sessions** can be scheduled to elaborate on points. This means the report gaps (below) can be closed by Ken *proposing wording*, not just by requesting it.
 - Former doctor (Dr. Adeseye Soile) refused to document functional limitations; a CPSO complaint draft exists (`07_Complaint_Draft.docx`).
 
 ## Strategy
@@ -41,7 +42,9 @@ Read this first when returning to the project, together with `AGENTS.md`.
 | 6 | Symptoms fluctuate / episodic | ❌ No (report says risk "will not diminish") |
 
 Items 4b, 5, and 6 must be **added by Peter or Dr. Sotoudeh** — they are the
-core of the Tuesday meeting asks.
+core of the Tuesday meeting asks. Since Peter will incorporate edits, Ken
+should **bring proposed wording for these items** (see
+`Psychologist/Report_to_Documents_Mapping.md` for the full six-gap list).
 
 ## Key files
 
