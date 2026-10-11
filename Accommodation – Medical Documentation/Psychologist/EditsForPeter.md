@@ -123,7 +123,7 @@ worsened by commuting to and from the workplace:
   past traumatic incidents.
 - Intrusive, trauma-related thoughts and hypervigilance while driving.
 
-Recommended accommodation:
+Accommodation required:
 Mr. Wood requires a workplace accommodation permitting him to work from home
 as his functional limitations require, including full-time remote work during
 periods of elevated symptoms. In-office attendance should be limited to the

@@ -21,6 +21,16 @@ Peter to add the social anxiety and possible PTSD limitations.
 
 Peter's report will recommend this note; Dr. Sotoudeh adapts and signs it.
 
+Who states vs. who chooses the accommodation (OHRC):
+- The note SHOULD state the accommodation NEED — OHRC Policy on ableism (s. 8.7)
+  expects medical documentation to include "the type of accommodation(s) that
+  may be needed." Stating remote work is correct, not overreach.
+- The employer IMPLEMENTS the accommodation and, where two options meet the
+  needs equally, may choose the less disruptive one (s. 8.3: the Code
+  accommodates NEEDS, not PREFERENCES).
+- Here the limitation IS the commute, so remote work is the accommodation that
+  meets the need — worded below as "required" (need), not "preferred."
+
 ----------------------------------------------------------------
 [CLINIC LETTERHEAD]
 
@@ -58,7 +68,7 @@ worsened by commuting to and from the workplace:
   past traumatic incidents.
 - Intrusive, trauma-related thoughts and hypervigilance while driving.
 
-Recommended accommodation:
+Accommodation required:
 Mr. Wood requires a workplace accommodation permitting him to work from home
 as his functional limitations require, including full-time remote work during
 periods of elevated symptoms. In-office attendance should be limited to the
