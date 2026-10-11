@@ -58,3 +58,9 @@ Source of Ken's material: `RocketDoctor/01–05` + `Psychologist/01 – Backgrou
   the HR request.
 - Gap 6 is the **accommodation wording** — the single most important thing to
   align between Peter's report and the doctor's note.
+
+## Full limitation-by-limitation map
+
+For the complete 16-limitation taxonomy with journal evidence, Peter-report
+coverage, doctor-note coverage, and OHRC-principle index, see
+`Functional_Limitations_Full_Mapping.md` (same folder).
