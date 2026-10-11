@@ -40,7 +40,7 @@ relapse risk), not diagnosis. Two documentation layers:
 | `Accommodation – Legal Documentation/` | Achkar Law payment receipt + initial consult notes |
 | `Accommodation – Medical Documentation/` | Clinician letters, notes, consent form, OHRC mapping, Rocket Doctor + Telus Health material |
 | `Accommodation – Medical Documentation/Psychologist/` | Background, coping strategies, journals, letter, lists, prompts |
-| `Accommodation – Medical Documentation/RocketDoctor/` | Clinician briefing/evidence packets + prep |
+| `Accommodation – Medical Documentation/RocketDoctor/` | Reusable clinician packet (functional-limitations evidence) for Dr. Sotoudeh / HR — the Rocket Doctor provider itself was a dead end; see the folder README |
 | `Accommodation – Personal Strategy/` | Internal functional-limitations reference + WFH (AWA) timeline |
 | `Prompts/` | Reusable prompt templates for OHRC analysis and clinician search |
 | `AI Summary AsOf Dec 15.docx`, `Appointment History.xlsx` | Summary + appointment log |

@@ -50,6 +50,7 @@ core of the Tuesday meeting asks.
 - `Accommodation – Personal Strategy/ACTION ITEMS.md` — prioritized action list
 - `Accommodation – Medical Documentation/Psychologist/PeterMeeting_Agenda.txt` — meeting questions
 - `Accommodation – Medical Documentation/DoctorNote_Template.txt` — physician note template
+- `Accommodation – Medical Documentation/RocketDoctor/` — reusable clinician packet (functional-limitations evidence) for Dr. Sotoudeh / HR; see its README
 - `Accommodation – HR Evidence/EmailToManager_DRAFT.txt` — manager email
 - `References/` — OHRC policies + Ontario Human Rights Code (downloaded)
 
