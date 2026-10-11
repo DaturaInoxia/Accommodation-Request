@@ -31,6 +31,16 @@ Who states vs. who chooses the accommodation (OHRC):
 - Here the limitation IS the commute, so remote work is the accommodation that
   meets the need — worded below as "required" (need), not "preferred."
 
+Self-contained note — no reference to other providers (OHRC ss. 8.7, 8.8):
+- The note stands alone. Do NOT mention the psychologist, the assessment, or
+  any other provider. The employer "does not have the right to know a person's
+  confidential medical information" (s. 8.7), and documentation "should be
+  provided only to the people who need to be aware of the information" (s. 8.8).
+- A treating physician may rely on specialist material without disclosing it;
+  the note says only "based on my clinical assessment and ongoing care of this
+  patient" — true, and sufficient. It must not claim a psychological
+  assessment was performed.
+
 ----------------------------------------------------------------
 [CLINIC LETTERHEAD]
 
@@ -42,9 +52,7 @@ Re: Ken Wood — DOB: ____________________
 
 I am the treating physician for Mr. Ken Wood.
 
-I have reviewed the psychological assessment prepared by Peter Farvolden,
-Ph.D., C.Psych. (dated June 10, 2026), and this note is based on that
-assessment and on my own care of the patient.
+This note is based on my clinical assessment and ongoing care of this patient.
 
 Mr. Wood has diagnosed medical conditions that constitute a disability within
 the meaning of the Ontario Human Rights Code.

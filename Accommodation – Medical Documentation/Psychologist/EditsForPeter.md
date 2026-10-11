@@ -97,9 +97,7 @@ Re: Ken Wood — DOB: ____________________
 
 I am the treating physician for Mr. Ken Wood.
 
-I have reviewed the psychological assessment prepared by [Peter Farvolden,
-Ph.D., C.Psych., dated June 10, 2026], and this note is based on that
-assessment and on my own care of the patient.
+This note is based on my clinical assessment and ongoing care of this patient.
 
 Mr. Wood has diagnosed medical conditions that constitute a disability within
 the meaning of the Ontario Human Rights Code.
