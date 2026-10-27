@@ -101,6 +101,33 @@ anticipatory anxiety (A3), sleep (B3), fatigue → concentration/routines
 own; the full 16-item taxonomy above is what the doctor *can* draw from if he
 wants to be more specific.
 
+## G. Verified against Peter's actual report (Oct 27, 2026)
+
+Re-read the full report (`Ken W Letter June 10 2026 PF.docx`). Verdict:
+
+**Backed up by the report (verbatim or near-verbatim):**
+- A3 — "baseline stress level is already 7/10… 'irritable and grumpy' for a
+  day or two after he commutes" ✅
+- B3 — "does not generally sleep as well… problems falling asleep" ✅
+- E1 — cravings after driving (Paige), intrusive driving thoughts
+  ("Is this the day my life is going to change?") ✅
+- A1/A2 — "driving stresses me out"; "stressed out and tired" ⚠️ partial
+- Relapse risk — central and repeated ("risk of relapse… catastrophic") ✅
+
+**NOT in the report (Ken's docs only):**
+- B1 morning routines · B2 decompression · B4 healthy routines
+- C1 access to supports · C2 appointments · C3 treatment flexibility
+- D1 bandwidth · D2 focus · D3 planning/decision-making
+- E3 traffic/weather unpredictability
+
+**NEW things the report adds (not in Ken's docs):**
+- Social Anxiety Disorder as a formal diagnosis + its link to AUD/relapse risk
+- Specific Phobia – Fear of Driving + trauma formulation ("strong traumatic
+  component") + rule-out PTSD
+- Third-party corroboration: Paige McKenzie (RSW) and wife Becky
+- Treatment plan: CBT + pharmacotherapy (Dr. VanAmeringen), ~1 year
+- The 2–3 days/week recommendation (permanent vs temporary ≥1 year)
+
 ## Action
 
 1. Give Peter the **high-priority edits in §E** as proposed wording (he will

@@ -1,89 +1,81 @@
-# Edits for Peter — Proposed Report Wording (hand to Peter)
+# My Notes for Peter — Edits to the Draft Report
 
-One page. Wording below is drawn from Ken's own documentation
-(`RocketDoctor/03` and the journals) and is written to be pasted into the
-report. Peter should adjust to his clinical voice and include only what he can
-professionally endorse. ID codes map to
-`Functional_Limitations_Full_Mapping.md`.
+These are my own notes and observations, written in my own words, for Peter to
+consider when he finalizes the report. Peter can translate them into his
+clinical voice and include only what he can professionally endorse. The ID
+codes map to `Functional_Limitations_Full_Mapping.md`.
 
-## 0. Framing — cover all confirmed conditions, not only alcohol
+## 0. Framing — cover all my conditions, not just alcohol
 
-Peter has acknowledged: Alcohol Use Disorder (in sustained remission), Social
+Peter has diagnosed: Alcohol Use Disorder (sustained remission), Social
 Anxiety Disorder, and a specific phobia of driving, with PTSD to be ruled out
-(pending the PCL-5). The wording below must reflect the COMBINED functional
-impact of these conditions — not relapse prevention alone. The accommodation
-rests on the same limitation either way: the commute is the trigger. The
-alcohol/relapse wording stays as the foundation; the anxiety and trauma-related
-limitations are added alongside it (bracketed in §6 for Peter to confirm).
+(pending the PCL-5). My own documents have mostly focused on alcohol and
+relapse, but I want the report to reflect the combined impact of all of these.
+The anchor is the same either way: the commute is the trigger.
 
 ---
 
-## 1. ★ The recommendation — reword (most important)
+## 1. ★ The recommendation — what I'm asking to change
 
-**Current:** "work no more than two or three days a week in office."
+**Current wording:** "work no more than two or three days a week in office."
 
-**Proposed replacement:**
+**My note:** I'm asking for remote work, not a fixed 2–3 day cap. Could the
+recommendation say something like:
 
-> Mr. Wood requires a workplace accommodation that permits him to work from
-> home as his functional limitations require, including full-time remote work
-> during periods of elevated symptoms. In-office attendance should be limited
-> to the extent necessary to avoid triggering or worsening the functional
-> limitations described in this report.
+> I need an accommodation that lets me work from home as my functional
+> limitations require, including full-time remote work during periods of
+> elevated symptoms, with in-office attendance limited to what is necessary to
+> avoid triggering or worsening my limitations.
 
-**Ask to confirm:** is the 2–3 day figure a hard clinical limit, or can it be
-replaced by the functional wording above?
+**To confirm:** is the 2–3 day figure a hard clinical limit, or can it be
+replaced by functional wording like the above?
 
-## 2. ★ Add — limitations fluctuate (episodic)
+## 2. ★ Add — my limitations fluctuate
 
-> These functional limitations fluctuate in severity. The impact is greater
-> during periods of elevated symptoms, and the accommodation must therefore be
-> flexible rather than tied to a fixed schedule.
+**My note:** My limitations aren't constant. The impact is worse during
+periods of elevated symptoms, so the accommodation needs to be flexible rather
+than tied to a fixed schedule.
 
-## 3. Add — the work-from-home contrast (clinical version)
+## 3. Add — the work-from-home contrast
 
-> Notably, on days Mr. Wood works from home he reports an absence of intrusive
-> thoughts, urges, and post-commute fatigue, with stable sleep and stable
-> functioning. The distinguishing variable between these two states is the
-> commute.
+**My note:** On days I work from home I don't get intrusive thoughts, urges,
+or the post-commute fatigue. My sleep and my functioning are stable. The only
+thing that changes between those two states is the commute.
 
-## 4. Add — functional limitations (proposed wording, by domain)
+## 4. Add — my functional limitations (what I've noticed)
 
 **Routines and structure**
-> Commuting disrupts the structured morning routine (exercise, grounding, a
-> planned start to the day) that Mr. Wood relies on to maintain stability, and
-> the extended travel time reduces his ability to decompress after work. It
-> also reduces his capacity to maintain the health routines that support his
-> recovery — regular exercise, consistent meals, and grounding practices.
+> Commuting disrupts my morning routine (exercise, grounding, a planned start
+> to the day), leaves me unable to decompress after work, and makes it hard to
+> keep up the routines that support my recovery — regular exercise, consistent
+> meals, and grounding.
 
 **Access to treatment and supports**
-> The time required for commuting reduces Mr. Wood's availability to attend
-> counselling and medical appointments and reduces his flexibility to engage
-> in treatment. Eliminating the commute preserves access to the very
-> interventions that maintain his stability.
+> Commuting cuts into my ability to attend counselling and medical
+> appointments and makes me less flexible about engaging in treatment. Working
+> from home keeps me able to do those things.
 
 **Cognitive functioning**
-> Following a commute, Mr. Wood reports difficulty sustaining concentration
-> and, when fatigued, increased difficulty with planning, organization, and
-> decision-making.
+> After a commute I have trouble sustaining focus, and when I'm tired I find
+> planning, organizing, and decision-making harder.
 
 **Triggers and environmental factors**
-> The commute and the associated return-home transition expose Mr. Wood to
-> environmental triggers linked to his past drinking routines, and the
-> unpredictability of traffic and weather undermines the predictability and
-> routine that support his stability.
+> The commute and the return-home routine expose me to triggers tied to my
+> past drinking, and the unpredictability of traffic and weather throws off
+> the routine that keeps me stable.
 
 ## 5. (Optional) — treatment plan
 
-> The recommended treatment is [CBT ± pharmacotherapy], with a review of the
-> accommodation's continued necessity after approximately one year.
+**My note:** I understand the plan is CBT ± medication. It would help if the
+report notes the review timeline (roughly a year).
 
 ---
 
-## 6. ★ Include — a suggested physician's note (for the report)
+## 6. ★ Include — a suggested physician's note
 
-Peter should include the following as a note the treating physician
-(Dr. Sotoudeh) can adapt and sign directly. It mirrors the wording above so
-the report and the note stay consistent.
+I'd like the report to include the following note that my doctor (Dr. Sotoudeh)
+can adapt and sign directly. It mirrors the wording above so the report and
+the note stay consistent.
 
 ---
 
@@ -136,8 +128,8 @@ Signed: ______________________________   Date: ______________
 
 - [ ] Include the suggested physician's note in the report (§6)
 - [ ] Replace the 2–3 day wording with functional wording (§1)
-- [ ] Add episodic/fluctuation statement (§2)
+- [ ] Add the fluctuation statement (§2)
 - [ ] Add the WFH contrast statement (§3)
-- [ ] Add the four limitation paragraphs (§4)
+- [ ] Add the four limitation sections (§4)
 - [ ] Confirm treatment plan + review timeline (§5)
 - [ ] Send the finalized report directly to Dr. Sotoudeh
