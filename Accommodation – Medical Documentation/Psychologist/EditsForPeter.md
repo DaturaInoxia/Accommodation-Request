@@ -112,7 +112,7 @@ as his functional limitations require, including full-time remote work during
 periods of elevated symptoms. In-office attendance should be limited to the
 extent necessary to avoid triggering or worsening these limitations.
 
-Duration: Ongoing condition (not temporary).
+Duration: Ongoing condition.
 
 Signed: ______________________________   Date: ______________
 [Physician name, credentials, CPSO #]
