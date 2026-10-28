@@ -6,7 +6,7 @@ What this note must do (so the doctor doesn't need to know OHRC):
   2. State the functional limitations (commuting-triggered: anxiety, sleep,
      fatigue, fluctuation).
   3. State the accommodation needed (remote work, as functional limitations require).
-  4. State duration (ongoing, with reassessment).
+  4. State duration (ongoing, not temporary).
 Avoid: treatment details, medication, history, diagnosis — HR only needs
 functional information. This is the OHRC chain: disability → limitations →
 accommodation → duration. (The employer may generally only ask: does a
@@ -39,10 +39,10 @@ Self-contained note — no reference to other providers (OHRC ss. 8.7, 8.8):
   any other provider. The employer "does not have the right to know a person's
   confidential medical information" (s. 8.7), and documentation "should be
   provided only to the people who need to be aware of the information" (s. 8.8).
-- A treating physician may rely on specialist material without disclosing it;
-  the note says only "based on my clinical assessment and ongoing care of this
-  patient" — true, and sufficient. It must not claim a psychological
-  assessment was performed.
+- A treating physician may rely on specialist material without disclosing it.
+  The note states only that Mr. Wood is a patient in his care. It must NOT
+  claim the doctor performed any assessment or examination — the assessment
+  was the psychologist's, not the doctor's.
 
 ----------------------------------------------------------------
 [CLINIC LETTERHEAD]
