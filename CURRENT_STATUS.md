@@ -1,6 +1,6 @@
 # Current Status & Key Decisions
 
-Last updated: 2026-10-10
+Last updated: 2026-10-27
 
 Read this first when returning to the project, together with `AGENTS.md`.
 
@@ -10,6 +10,7 @@ Read this first when returning to the project, together with `AGENTS.md`.
 - **Rocket Doctor path is DEAD** (did not work).
 - Psychologist report (Peter Farvolden, dated June 10, 2026): **still a DRAFT** — Peter is finalizing it **this week** and will send it, then set a meeting **next week** to discuss.
 - Peter asked Ken to complete the **PCL-5** (with LEC + Criterion A), considering accidents/incidents witnessed while commuting, to **rule out PTSD** before finalizing. Forms in `References/PTSD Assessment Forms/`.
+- **PCL-5 COMPLETED (2026-10-27):** Stanford (LEC + Criterion A) and VA (standard) forms both filled and dated. Worst event = witnessing a child struck and killed while driving (~10 years ago). Peter confirmed it is acceptable to rely on Ken's journal entries from this period (Nov 2025–Feb 2026) as the basis for the ratings.
 - New family doctor **Dr. K. Sotoudeh** (Bradford Health Care Centre): verbally agreed to write the doctor's note **using Peter's report as evidence** — but wants the report sent to him **directly by Peter**, not by Ken.
 - **Peter is fully on-side:** he has told Ken he will collaborate on shaping the report — Ken may **edit / annotate the draft** and Peter will **incorporate the changes (within reason)**, and **additional sessions** can be scheduled to elaborate on points. This means the report gaps (below) can be closed by Ken *proposing wording*, not just by requesting it.
 - Former doctor (Dr. Adeseye Soile) refused to document functional limitations; a CPSO complaint draft exists (`07_Complaint_Draft.docx`).
