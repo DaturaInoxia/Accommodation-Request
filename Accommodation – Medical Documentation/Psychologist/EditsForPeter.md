@@ -92,9 +92,11 @@ I am the treating physician for Mr. Ken Wood, and he is a patient in my care.
 Mr. Wood has a diagnosed medical condition that constitutes a disability
 within the meaning of the Ontario Human Rights Code.
 
-Mr. Wood's condition is triggered and significantly worsened by commuting to
-and from the workplace. On days he commutes:
+Mr. Wood's condition is triggered and significantly worsened by in-office
+attendance, including the commute to and from the workplace. On days he
+attends the office:
 - He experiences significant anxiety about the commute itself.
+- He experiences significant anxiety in the workplace environment around others.
 - He experiences a heightened stress response that persists after arrival and
   for one to two days afterward.
 - His sleep is disrupted on the nights before in-office attendance.
@@ -103,14 +105,13 @@ and from the workplace. On days he commutes:
 - These limitations fluctuate; their impact is greater during periods of
   elevated symptoms.
 
-Continued commuting places Mr. Wood at significant risk of serious
-deterioration of his condition.
+Continued in-office attendance places Mr. Wood at significant risk of
+serious deterioration of his condition.
 
 Accommodation required:
-Mr. Wood requires a workplace accommodation permitting him to work from home
-as his functional limitations require, including full-time remote work during
-periods of elevated symptoms. In-office attendance should be limited to the
-extent necessary to avoid triggering or worsening these limitations.
+Mr. Wood requires a workplace accommodation permitting him to work from home.
+In-office attendance should be avoided, as it triggers and worsens these
+limitations.
 
 Duration: Ongoing condition.
 
