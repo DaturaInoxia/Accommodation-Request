@@ -96,8 +96,9 @@ within the meaning of the Ontario Human Rights Code.
 
 Mr. Wood's condition is triggered and significantly worsened by commuting to
 and from the workplace. On days he commutes:
-- He experiences significant anticipatory anxiety and a heightened stress
-  response that persists after arrival and for one to two days afterward.
+- He experiences significant anxiety about the commute itself.
+- He experiences a heightened stress response that persists after arrival and
+  for one to two days afterward.
 - His sleep is disrupted on the nights before in-office attendance.
 - He experiences fatigue that reduces his concentration, consistency, and his
   ability to maintain the routines that support his health.
