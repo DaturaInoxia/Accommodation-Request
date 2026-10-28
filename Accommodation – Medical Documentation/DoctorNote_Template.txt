@@ -55,7 +55,7 @@ Re: Ken Wood — DOB: ____________________
 
 I am the treating physician for Mr. Ken Wood.
 
-This note is based on my clinical assessment and ongoing care of this patient.
+I am his doctor, and he is in my care.
 
 Mr. Wood has a diagnosed medical condition that constitutes a disability
 within the meaning of the Ontario Human Rights Code.
@@ -80,7 +80,7 @@ as his functional limitations require, including full-time remote work during
 periods of elevated symptoms. In-office attendance should be limited to the
 extent necessary to avoid triggering or worsening these limitations.
 
-Duration: Ongoing, with reassessment after 12 months.
+Duration: Ongoing condition (not temporary).
 
 Please contact my office if further information is required.
 
