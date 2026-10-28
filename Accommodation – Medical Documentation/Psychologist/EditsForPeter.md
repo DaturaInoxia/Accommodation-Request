@@ -91,27 +91,21 @@ I am the treating physician for Mr. Ken Wood.
 
 This note is based on my clinical assessment and ongoing care of this patient.
 
-Mr. Wood has diagnosed medical conditions that constitute a disability within
-the meaning of the Ontario Human Rights Code.
+Mr. Wood has a diagnosed medical condition that constitutes a disability
+within the meaning of the Ontario Human Rights Code.
 
-Mr. Wood experiences ongoing functional limitations that are triggered and
-worsened by commuting to and from the workplace:
-- Commuting is a trigger that worsens his conditions and increases the risk
-  of relapse.
-- Driving causes significant anticipatory anxiety and a heightened stress
+Mr. Wood's condition is triggered and significantly worsened by commuting to
+and from the workplace. On days he commutes:
+- He experiences significant anticipatory anxiety and a heightened stress
   response that persists after arrival and for one to two days afterward.
-- Sleep is disrupted on nights before in-office attendance, reducing his
-  ability to maintain stability.
-- Commuting-related fatigue reduces concentration, consistency, and the
+- His sleep is disrupted on the nights before in-office attendance.
+- He experiences fatigue that reduces his concentration, consistency, and his
   ability to maintain the routines that support his health.
 - These limitations fluctuate; their impact is greater during periods of
   elevated symptoms.
 
-[Additional limitations — for the psychologist to confirm and add:]
-- Anticipatory anxiety and avoidance related to driving and the commute.
-- Heightened anxiety and a startle response to traffic events that evoke
-  past traumatic incidents.
-- Intrusive, trauma-related thoughts and hypervigilance while driving.
+Continued commuting places Mr. Wood at significant risk of serious
+deterioration of his condition.
 
 Accommodation required:
 Mr. Wood requires a workplace accommodation permitting him to work from home
