@@ -93,7 +93,7 @@ Mr. Wood has a diagnosed medical condition that constitutes a disability
 within the meaning of the Ontario Human Rights Code.
 
 Mr. Wood's condition is triggered and significantly worsened by commuting to
-and from the workplace, regardless of the mode of travel. On days he commutes:
+and from the workplace. On days he commutes:
 - He experiences significant anxiety about the commute itself.
 - He experiences a heightened stress response that persists after arrival and
   for one to two days afterward.
@@ -110,9 +110,7 @@ Accommodation required:
 Mr. Wood requires a workplace accommodation permitting him to work from home
 as his functional limitations require, including full-time remote work during
 periods of elevated symptoms. In-office attendance should be limited to the
-extent necessary to avoid triggering or worsening these limitations. Alternative commuting
-arrangements (such as transit or carpooling) would not address these limitations, as the trigger
-is the commute itself rather than the mode of travel.
+extent necessary to avoid triggering or worsening these limitations.
 
 Duration: Ongoing condition.
 
